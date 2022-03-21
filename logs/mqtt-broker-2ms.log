@@ -1,0 +1,1625 @@
+1647874652: Warning: Unable to drop privileges to 'mosquitto' because this user does not exist. Trying 'nobody' instead.
+1647874652: mosquitto version 2.0.14 starting
+1647874652: Config loaded from /etc/mosquitto/mosquitto.conf.
+1647874652: Opening ipv4 listen socket on port 1883.
+1647874652: Opening ipv6 listen socket on port 1883.
+1647874652: mosquitto version 2.0.14 running
+1647874653: New connection from 130.188.160.11:45278 on port 1883.
+1647874653: New connection from 130.188.160.11:45280 on port 1883.
+1647874653: New connection from 130.188.160.11:45282 on port 1883.
+1647874653: New client connected from 130.188.160.11:45278 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874653: New connection from 130.188.160.11:45284 on port 1883.
+1647874653: New connection from 130.188.160.11:45288 on port 1883.
+1647874653: New connection from 130.188.160.11:45290 on port 1883.
+1647874653: New connection from 130.188.160.11:45292 on port 1883.
+1647874653: Client iotaul_d0805f53 already connected, closing old connection.
+1647874653: New client connected from 130.188.160.11:45280 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874653: Client iotaul_d0805f53 already connected, closing old connection.
+1647874653: New client connected from 130.188.160.11:45282 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874653: Client iotaul_d0805f53 already connected, closing old connection.
+1647874653: New client connected from 130.188.160.11:45284 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874653: Client iotaul_d0805f53 already connected, closing old connection.
+1647874653: New client connected from 130.188.160.11:45288 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874653: Client iotaul_d0805f53 already connected, closing old connection.
+1647874653: New client connected from 130.188.160.11:45290 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874653: Client iotaul_d0805f53 already connected, closing old connection.
+1647874653: New client connected from 130.188.160.11:45292 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874654: New connection from 130.188.160.11:45294 on port 1883.
+1647874654: New connection from 130.188.160.11:45296 on port 1883.
+1647874654: New connection from 130.188.160.11:45298 on port 1883.
+1647874654: New connection from 130.188.160.11:45300 on port 1883.
+1647874654: New connection from 130.188.160.11:45302 on port 1883.
+1647874654: Client iotaul_d0805f53 already connected, closing old connection.
+1647874654: New client connected from 130.188.160.11:45294 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874654: Client iotaul_d0805f53 already connected, closing old connection.
+1647874654: New client connected from 130.188.160.11:45296 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874654: Client iotaul_d0805f53 already connected, closing old connection.
+1647874654: New client connected from 130.188.160.11:45298 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874654: Client iotaul_d0805f53 already connected, closing old connection.
+1647874654: New client connected from 130.188.160.11:45300 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874654: Client iotaul_d0805f53 already connected, closing old connection.
+1647874654: New client connected from 130.188.160.11:45302 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874654: New connection from 130.188.160.11:45304 on port 1883.
+1647874654: Client iotaul_d0805f53 already connected, closing old connection.
+1647874654: New client connected from 130.188.160.11:45304 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874655: New connection from 130.188.160.11:45306 on port 1883.
+1647874655: Client iotaul_d0805f53 already connected, closing old connection.
+1647874655: New client connected from 130.188.160.11:45306 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874655: New connection from 130.188.160.11:45308 on port 1883.
+1647874655: Client iotaul_d0805f53 already connected, closing old connection.
+1647874655: New client connected from 130.188.160.11:45308 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874655: New connection from 130.188.160.11:45310 on port 1883.
+1647874655: Client iotaul_d0805f53 already connected, closing old connection.
+1647874655: New client connected from 130.188.160.11:45310 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874655: New connection from 130.188.160.11:45312 on port 1883.
+1647874655: New connection from 130.188.160.11:45314 on port 1883.
+1647874655: New connection from 130.188.160.11:45316 on port 1883.
+1647874655: Client iotaul_d0805f53 already connected, closing old connection.
+1647874655: New client connected from 130.188.160.11:45312 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874655: Client iotaul_d0805f53 already connected, closing old connection.
+1647874655: New client connected from 130.188.160.11:45314 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874655: Client iotaul_d0805f53 already connected, closing old connection.
+1647874655: New client connected from 130.188.160.11:45316 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874656: New connection from 130.188.160.11:45318 on port 1883.
+1647874656: Client iotaul_d0805f53 already connected, closing old connection.
+1647874656: New client connected from 130.188.160.11:45318 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874656: New connection from 130.188.160.11:45322 on port 1883.
+1647874656: Client iotaul_d0805f53 already connected, closing old connection.
+1647874656: New client connected from 130.188.160.11:45322 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874656: New connection from 130.188.160.11:45324 on port 1883.
+1647874656: Client iotaul_d0805f53 already connected, closing old connection.
+1647874656: New client connected from 130.188.160.11:45324 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874656: New connection from 130.188.160.11:45326 on port 1883.
+1647874656: New connection from 130.188.160.11:45328 on port 1883.
+1647874656: New connection from 130.188.160.11:45330 on port 1883.
+1647874656: Client iotaul_d0805f53 already connected, closing old connection.
+1647874656: New client connected from 130.188.160.11:45326 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874656: Client iotaul_d0805f53 already connected, closing old connection.
+1647874656: New client connected from 130.188.160.11:45328 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874656: Client iotaul_d0805f53 already connected, closing old connection.
+1647874656: New client connected from 130.188.160.11:45330 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874657: New connection from 130.188.160.11:45332 on port 1883.
+1647874657: Client iotaul_d0805f53 already connected, closing old connection.
+1647874657: New client connected from 130.188.160.11:45332 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874657: New connection from 130.188.160.11:45334 on port 1883.
+1647874657: Client iotaul_d0805f53 already connected, closing old connection.
+1647874657: New client connected from 130.188.160.11:45334 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874657: New connection from 130.188.160.11:45336 on port 1883.
+1647874657: Client iotaul_d0805f53 already connected, closing old connection.
+1647874657: New client connected from 130.188.160.11:45336 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874657: New connection from 130.188.160.11:45338 on port 1883.
+1647874657: New connection from 130.188.160.11:45340 on port 1883.
+1647874657: New connection from 130.188.160.11:45342 on port 1883.
+1647874657: Client iotaul_d0805f53 already connected, closing old connection.
+1647874657: New client connected from 130.188.160.11:45338 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874657: Client iotaul_d0805f53 already connected, closing old connection.
+1647874657: New client connected from 130.188.160.11:45340 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874657: Client iotaul_d0805f53 already connected, closing old connection.
+1647874657: New client connected from 130.188.160.11:45342 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874658: New connection from 130.188.160.11:45344 on port 1883.
+1647874658: Client iotaul_d0805f53 already connected, closing old connection.
+1647874658: New client connected from 130.188.160.11:45344 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874658: New connection from 130.188.160.11:45346 on port 1883.
+1647874658: Client iotaul_d0805f53 already connected, closing old connection.
+1647874658: New client connected from 130.188.160.11:45346 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874658: New connection from 130.188.160.11:45348 on port 1883.
+1647874658: Client iotaul_d0805f53 already connected, closing old connection.
+1647874658: New client connected from 130.188.160.11:45348 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874658: New connection from 130.188.160.11:45350 on port 1883.
+1647874658: Client iotaul_d0805f53 already connected, closing old connection.
+1647874658: New client connected from 130.188.160.11:45350 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874658: New connection from 130.188.160.11:45352 on port 1883.
+1647874658: Client iotaul_d0805f53 already connected, closing old connection.
+1647874658: New client connected from 130.188.160.11:45352 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874658: New connection from 130.188.160.11:45354 on port 1883.
+1647874658: Client iotaul_d0805f53 already connected, closing old connection.
+1647874658: New client connected from 130.188.160.11:45354 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874659: New connection from 130.188.160.11:45356 on port 1883.
+1647874659: Client iotaul_d0805f53 already connected, closing old connection.
+1647874659: New client connected from 130.188.160.11:45356 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874659: New connection from 130.188.160.11:45358 on port 1883.
+1647874659: Client iotaul_d0805f53 already connected, closing old connection.
+1647874659: New client connected from 130.188.160.11:45358 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874659: New connection from 130.188.160.11:45360 on port 1883.
+1647874659: Client iotaul_d0805f53 already connected, closing old connection.
+1647874659: New client connected from 130.188.160.11:45360 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874659: New connection from 130.188.160.11:45362 on port 1883.
+1647874659: Client iotaul_d0805f53 already connected, closing old connection.
+1647874659: New client connected from 130.188.160.11:45362 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874659: New connection from 130.188.160.11:45366 on port 1883.
+1647874659: Client iotaul_d0805f53 already connected, closing old connection.
+1647874659: New client connected from 130.188.160.11:45366 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874659: New connection from 130.188.160.11:45368 on port 1883.
+1647874659: Client iotaul_d0805f53 already connected, closing old connection.
+1647874659: New client connected from 130.188.160.11:45368 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874660: New connection from 130.188.160.11:45370 on port 1883.
+1647874660: Client iotaul_d0805f53 already connected, closing old connection.
+1647874660: New client connected from 130.188.160.11:45370 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874660: New connection from 130.188.160.11:45372 on port 1883.
+1647874660: Client iotaul_d0805f53 already connected, closing old connection.
+1647874660: New client connected from 130.188.160.11:45372 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874660: New connection from 130.188.160.11:45374 on port 1883.
+1647874660: Client iotaul_d0805f53 already connected, closing old connection.
+1647874660: New client connected from 130.188.160.11:45374 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874660: New connection from 130.188.160.11:45376 on port 1883.
+1647874660: Client iotaul_d0805f53 already connected, closing old connection.
+1647874660: New client connected from 130.188.160.11:45376 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874660: New connection from 130.188.160.11:45378 on port 1883.
+1647874660: Client iotaul_d0805f53 already connected, closing old connection.
+1647874660: New client connected from 130.188.160.11:45378 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874660: New connection from 130.188.160.11:45380 on port 1883.
+1647874660: Client iotaul_d0805f53 already connected, closing old connection.
+1647874660: New client connected from 130.188.160.11:45380 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874661: New connection from 130.188.160.11:45382 on port 1883.
+1647874661: Client iotaul_d0805f53 already connected, closing old connection.
+1647874661: New client connected from 130.188.160.11:45382 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874661: New connection from 130.188.160.11:45384 on port 1883.
+1647874661: Client iotaul_d0805f53 already connected, closing old connection.
+1647874661: New client connected from 130.188.160.11:45384 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874661: New connection from 130.188.160.11:45386 on port 1883.
+1647874661: Client iotaul_d0805f53 already connected, closing old connection.
+1647874661: New client connected from 130.188.160.11:45386 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874661: New connection from 130.188.160.11:45388 on port 1883.
+1647874661: Client iotaul_d0805f53 already connected, closing old connection.
+1647874661: New client connected from 130.188.160.11:45388 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874661: New connection from 130.188.160.11:45390 on port 1883.
+1647874661: Client iotaul_d0805f53 already connected, closing old connection.
+1647874661: New client connected from 130.188.160.11:45390 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874661: New connection from 130.188.160.11:45392 on port 1883.
+1647874661: Client iotaul_d0805f53 already connected, closing old connection.
+1647874661: New client connected from 130.188.160.11:45392 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874662: New connection from 130.188.160.11:45394 on port 1883.
+1647874662: Client iotaul_d0805f53 already connected, closing old connection.
+1647874662: New client connected from 130.188.160.11:45394 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874662: New connection from 130.188.160.11:45396 on port 1883.
+1647874662: Client iotaul_d0805f53 already connected, closing old connection.
+1647874662: New client connected from 130.188.160.11:45396 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874662: New connection from 130.188.160.11:45400 on port 1883.
+1647874662: Client iotaul_d0805f53 already connected, closing old connection.
+1647874662: New client connected from 130.188.160.11:45400 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874662: New connection from 130.188.160.11:45402 on port 1883.
+1647874662: Client iotaul_d0805f53 already connected, closing old connection.
+1647874662: New client connected from 130.188.160.11:45402 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874662: New connection from 130.188.160.11:45404 on port 1883.
+1647874662: Client iotaul_d0805f53 already connected, closing old connection.
+1647874662: New client connected from 130.188.160.11:45404 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874662: New connection from 130.188.160.11:45408 on port 1883.
+1647874662: Client iotaul_d0805f53 already connected, closing old connection.
+1647874662: New client connected from 130.188.160.11:45408 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874663: New connection from 130.188.160.11:45410 on port 1883.
+1647874663: Client iotaul_d0805f53 already connected, closing old connection.
+1647874663: New client connected from 130.188.160.11:45410 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874663: New connection from 130.188.160.11:45412 on port 1883.
+1647874663: Client iotaul_d0805f53 already connected, closing old connection.
+1647874663: New client connected from 130.188.160.11:45412 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874663: New connection from 130.188.160.11:45414 on port 1883.
+1647874663: Client iotaul_d0805f53 already connected, closing old connection.
+1647874663: New client connected from 130.188.160.11:45414 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874663: New connection from 130.188.160.11:45416 on port 1883.
+1647874663: Client iotaul_d0805f53 already connected, closing old connection.
+1647874663: New client connected from 130.188.160.11:45416 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874663: New connection from 130.188.160.11:45418 on port 1883.
+1647874663: Client iotaul_d0805f53 already connected, closing old connection.
+1647874663: New client connected from 130.188.160.11:45418 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874663: New connection from 130.188.160.11:45420 on port 1883.
+1647874663: Client iotaul_d0805f53 already connected, closing old connection.
+1647874663: New client connected from 130.188.160.11:45420 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874664: New connection from 130.188.160.11:45422 on port 1883.
+1647874664: New connection from 130.188.160.11:45424 on port 1883.
+1647874664: Client iotaul_d0805f53 already connected, closing old connection.
+1647874664: New client connected from 130.188.160.11:45422 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874664: New connection from 130.188.160.11:45426 on port 1883.
+1647874664: Client iotaul_d0805f53 already connected, closing old connection.
+1647874664: New client connected from 130.188.160.11:45424 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874664: Client iotaul_d0805f53 already connected, closing old connection.
+1647874664: New client connected from 130.188.160.11:45426 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874664: New connection from 130.188.160.11:45428 on port 1883.
+1647874664: Client iotaul_d0805f53 already connected, closing old connection.
+1647874664: New client connected from 130.188.160.11:45428 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874664: New connection from 130.188.160.11:45430 on port 1883.
+1647874664: Client iotaul_d0805f53 already connected, closing old connection.
+1647874664: New client connected from 130.188.160.11:45430 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874664: New connection from 130.188.160.11:45432 on port 1883.
+1647874664: Client iotaul_d0805f53 already connected, closing old connection.
+1647874664: New client connected from 130.188.160.11:45432 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874665: New connection from 130.188.160.11:45434 on port 1883.
+1647874665: Client iotaul_d0805f53 already connected, closing old connection.
+1647874665: New client connected from 130.188.160.11:45434 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874665: New connection from 130.188.160.11:45436 on port 1883.
+1647874665: Client iotaul_d0805f53 already connected, closing old connection.
+1647874665: New client connected from 130.188.160.11:45436 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874665: New connection from 130.188.160.11:45438 on port 1883.
+1647874665: Client iotaul_d0805f53 already connected, closing old connection.
+1647874665: New client connected from 130.188.160.11:45438 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874665: New connection from 130.188.160.11:45440 on port 1883.
+1647874665: Client iotaul_d0805f53 already connected, closing old connection.
+1647874665: New client connected from 130.188.160.11:45440 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874665: New connection from 130.188.160.11:45442 on port 1883.
+1647874665: New connection from 130.188.160.11:45444 on port 1883.
+1647874665: Client iotaul_d0805f53 already connected, closing old connection.
+1647874665: New client connected from 130.188.160.11:45442 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874665: Client iotaul_d0805f53 already connected, closing old connection.
+1647874665: New client connected from 130.188.160.11:45444 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874666: New connection from 130.188.160.11:45446 on port 1883.
+1647874666: Client iotaul_d0805f53 already connected, closing old connection.
+1647874666: New client connected from 130.188.160.11:45446 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874666: New connection from 130.188.160.11:45448 on port 1883.
+1647874666: Client iotaul_d0805f53 already connected, closing old connection.
+1647874666: New client connected from 130.188.160.11:45448 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874666: New connection from 130.188.160.11:45450 on port 1883.
+1647874666: New connection from 130.188.160.11:45452 on port 1883.
+1647874666: Client iotaul_d0805f53 already connected, closing old connection.
+1647874666: New client connected from 130.188.160.11:45450 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874666: Client iotaul_d0805f53 already connected, closing old connection.
+1647874666: New client connected from 130.188.160.11:45452 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874666: New connection from 130.188.160.11:45454 on port 1883.
+1647874666: Client iotaul_d0805f53 already connected, closing old connection.
+1647874666: New client connected from 130.188.160.11:45454 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874666: New connection from 130.188.160.11:45456 on port 1883.
+1647874666: Client iotaul_d0805f53 already connected, closing old connection.
+1647874666: New client connected from 130.188.160.11:45456 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874667: New connection from 130.188.160.11:45458 on port 1883.
+1647874667: Client iotaul_d0805f53 already connected, closing old connection.
+1647874667: New client connected from 130.188.160.11:45458 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874667: New connection from 130.188.160.11:45460 on port 1883.
+1647874667: Client iotaul_d0805f53 already connected, closing old connection.
+1647874667: New client connected from 130.188.160.11:45460 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874667: New connection from 130.188.160.11:45462 on port 1883.
+1647874667: Client iotaul_d0805f53 already connected, closing old connection.
+1647874667: New client connected from 130.188.160.11:45462 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874667: New connection from 130.188.160.11:45464 on port 1883.
+1647874667: Client iotaul_d0805f53 already connected, closing old connection.
+1647874667: New client connected from 130.188.160.11:45464 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874667: New connection from 130.188.160.11:45466 on port 1883.
+1647874667: Client iotaul_d0805f53 already connected, closing old connection.
+1647874667: New client connected from 130.188.160.11:45466 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874667: New connection from 130.188.160.11:45470 on port 1883.
+1647874667: Client iotaul_d0805f53 already connected, closing old connection.
+1647874667: New client connected from 130.188.160.11:45470 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874668: New connection from 130.188.160.11:45472 on port 1883.
+1647874668: Client iotaul_d0805f53 already connected, closing old connection.
+1647874668: New client connected from 130.188.160.11:45472 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874668: New connection from 130.188.160.11:45474 on port 1883.
+1647874668: Client iotaul_d0805f53 already connected, closing old connection.
+1647874668: New client connected from 130.188.160.11:45474 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874668: New connection from 130.188.160.11:45476 on port 1883.
+1647874668: Client iotaul_d0805f53 already connected, closing old connection.
+1647874668: New client connected from 130.188.160.11:45476 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874668: New connection from 130.188.160.11:45478 on port 1883.
+1647874668: New connection from 130.188.160.11:45480 on port 1883.
+1647874668: Client iotaul_d0805f53 already connected, closing old connection.
+1647874668: New client connected from 130.188.160.11:45478 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874668: Client iotaul_d0805f53 already connected, closing old connection.
+1647874668: New client connected from 130.188.160.11:45480 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874668: New connection from 130.188.160.11:45482 on port 1883.
+1647874668: Client iotaul_d0805f53 already connected, closing old connection.
+1647874668: New client connected from 130.188.160.11:45482 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874669: New connection from 130.188.160.11:45484 on port 1883.
+1647874669: Client iotaul_d0805f53 already connected, closing old connection.
+1647874669: New client connected from 130.188.160.11:45484 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874669: New connection from 130.188.160.11:45486 on port 1883.
+1647874669: Client iotaul_d0805f53 already connected, closing old connection.
+1647874669: New client connected from 130.188.160.11:45486 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874669: New connection from 130.188.160.11:45490 on port 1883.
+1647874669: New connection from 130.188.160.11:45492 on port 1883.
+1647874669: New connection from 130.188.160.11:45494 on port 1883.
+1647874669: Client iotaul_d0805f53 already connected, closing old connection.
+1647874669: New client connected from 130.188.160.11:45490 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874669: Client iotaul_d0805f53 already connected, closing old connection.
+1647874669: New client connected from 130.188.160.11:45492 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874669: Client iotaul_d0805f53 already connected, closing old connection.
+1647874669: New client connected from 130.188.160.11:45494 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874669: New connection from 130.188.160.11:45496 on port 1883.
+1647874669: Client iotaul_d0805f53 already connected, closing old connection.
+1647874669: New client connected from 130.188.160.11:45496 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874670: New connection from 130.188.160.11:45500 on port 1883.
+1647874670: Client iotaul_d0805f53 already connected, closing old connection.
+1647874670: New client connected from 130.188.160.11:45500 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874670: New connection from 130.188.160.11:45502 on port 1883.
+1647874670: Client iotaul_d0805f53 already connected, closing old connection.
+1647874670: New client connected from 130.188.160.11:45502 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874670: New connection from 130.188.160.11:45504 on port 1883.
+1647874670: Client iotaul_d0805f53 already connected, closing old connection.
+1647874670: New client connected from 130.188.160.11:45504 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874670: New connection from 130.188.160.11:45506 on port 1883.
+1647874670: Client iotaul_d0805f53 already connected, closing old connection.
+1647874670: New client connected from 130.188.160.11:45506 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874670: New connection from 130.188.160.11:45508 on port 1883.
+1647874670: New connection from 130.188.160.11:45510 on port 1883.
+1647874670: Client iotaul_d0805f53 already connected, closing old connection.
+1647874670: New client connected from 130.188.160.11:45508 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874670: Client iotaul_d0805f53 already connected, closing old connection.
+1647874670: New client connected from 130.188.160.11:45510 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874671: New connection from 130.188.160.11:45512 on port 1883.
+1647874671: Client iotaul_d0805f53 already connected, closing old connection.
+1647874671: New client connected from 130.188.160.11:45512 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874671: New connection from 130.188.160.11:45514 on port 1883.
+1647874671: Client iotaul_d0805f53 already connected, closing old connection.
+1647874671: New client connected from 130.188.160.11:45514 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874671: New connection from 130.188.160.11:45516 on port 1883.
+1647874671: Client iotaul_d0805f53 already connected, closing old connection.
+1647874671: New client connected from 130.188.160.11:45516 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874671: New connection from 130.188.160.11:45518 on port 1883.
+1647874671: Client iotaul_d0805f53 already connected, closing old connection.
+1647874671: New client connected from 130.188.160.11:45518 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874671: New connection from 130.188.160.11:45520 on port 1883.
+1647874671: Client iotaul_d0805f53 already connected, closing old connection.
+1647874671: New client connected from 130.188.160.11:45520 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874671: New connection from 130.188.160.11:45522 on port 1883.
+1647874671: Client iotaul_d0805f53 already connected, closing old connection.
+1647874671: New client connected from 130.188.160.11:45522 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874672: New connection from 130.188.160.11:45524 on port 1883.
+1647874672: Client iotaul_d0805f53 already connected, closing old connection.
+1647874672: New client connected from 130.188.160.11:45524 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874672: New connection from 130.188.160.11:45528 on port 1883.
+1647874672: Client iotaul_d0805f53 already connected, closing old connection.
+1647874672: New client connected from 130.188.160.11:45528 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874672: New connection from 130.188.160.11:45530 on port 1883.
+1647874672: Client iotaul_d0805f53 already connected, closing old connection.
+1647874672: New client connected from 130.188.160.11:45530 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874672: New connection from 130.188.160.11:45532 on port 1883.
+1647874672: Client iotaul_d0805f53 already connected, closing old connection.
+1647874672: New client connected from 130.188.160.11:45532 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874672: New connection from 130.188.160.11:45534 on port 1883.
+1647874672: Client iotaul_d0805f53 already connected, closing old connection.
+1647874672: New client connected from 130.188.160.11:45534 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874672: New connection from 130.188.160.11:45536 on port 1883.
+1647874672: Client iotaul_d0805f53 already connected, closing old connection.
+1647874672: New client connected from 130.188.160.11:45536 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874673: New connection from 130.188.160.11:45538 on port 1883.
+1647874673: Client iotaul_d0805f53 already connected, closing old connection.
+1647874673: New client connected from 130.188.160.11:45538 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874673: New connection from 130.188.160.11:45540 on port 1883.
+1647874673: New connection from 130.188.160.11:45542 on port 1883.
+1647874673: Client iotaul_d0805f53 already connected, closing old connection.
+1647874673: New client connected from 130.188.160.11:45540 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874673: Client iotaul_d0805f53 already connected, closing old connection.
+1647874673: New client connected from 130.188.160.11:45542 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874673: New connection from 130.188.160.11:45544 on port 1883.
+1647874673: Client iotaul_d0805f53 already connected, closing old connection.
+1647874673: New client connected from 130.188.160.11:45544 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874673: New connection from 130.188.160.11:45546 on port 1883.
+1647874673: New connection from 130.188.160.11:45548 on port 1883.
+1647874673: Client iotaul_d0805f53 already connected, closing old connection.
+1647874673: New client connected from 130.188.160.11:45546 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874673: Client iotaul_d0805f53 already connected, closing old connection.
+1647874673: New client connected from 130.188.160.11:45548 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874674: New connection from 130.188.160.11:45550 on port 1883.
+1647874674: New connection from 130.188.160.11:45552 on port 1883.
+1647874674: Client iotaul_d0805f53 already connected, closing old connection.
+1647874674: New client connected from 130.188.160.11:45550 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874674: Client iotaul_d0805f53 already connected, closing old connection.
+1647874674: New client connected from 130.188.160.11:45552 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874674: New connection from 130.188.160.11:45554 on port 1883.
+1647874674: Client iotaul_d0805f53 already connected, closing old connection.
+1647874674: New client connected from 130.188.160.11:45554 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874674: New connection from 130.188.160.11:45556 on port 1883.
+1647874674: Client iotaul_d0805f53 already connected, closing old connection.
+1647874674: New client connected from 130.188.160.11:45556 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874674: New connection from 130.188.160.11:45558 on port 1883.
+1647874674: Client iotaul_d0805f53 already connected, closing old connection.
+1647874674: New client connected from 130.188.160.11:45558 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874674: New connection from 130.188.160.11:45560 on port 1883.
+1647874674: Client iotaul_d0805f53 already connected, closing old connection.
+1647874674: New client connected from 130.188.160.11:45560 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874675: New connection from 130.188.160.11:45562 on port 1883.
+1647874675: Client iotaul_d0805f53 already connected, closing old connection.
+1647874675: New client connected from 130.188.160.11:45562 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874675: New connection from 130.188.160.11:45564 on port 1883.
+1647874675: Client iotaul_d0805f53 already connected, closing old connection.
+1647874675: New client connected from 130.188.160.11:45564 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874675: New connection from 130.188.160.11:45566 on port 1883.
+1647874675: Client iotaul_d0805f53 already connected, closing old connection.
+1647874675: New client connected from 130.188.160.11:45566 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874675: New connection from 130.188.160.11:45568 on port 1883.
+1647874675: Client iotaul_d0805f53 already connected, closing old connection.
+1647874675: New client connected from 130.188.160.11:45568 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874675: New connection from 130.188.160.11:45570 on port 1883.
+1647874675: New connection from 130.188.160.11:45572 on port 1883.
+1647874675: Client iotaul_d0805f53 already connected, closing old connection.
+1647874675: New client connected from 130.188.160.11:45570 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874675: Client iotaul_d0805f53 already connected, closing old connection.
+1647874675: New client connected from 130.188.160.11:45572 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874676: New connection from 130.188.160.11:45574 on port 1883.
+1647874676: Client iotaul_d0805f53 already connected, closing old connection.
+1647874676: New client connected from 130.188.160.11:45574 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874676: New connection from 130.188.160.11:45576 on port 1883.
+1647874676: Client iotaul_d0805f53 already connected, closing old connection.
+1647874676: New client connected from 130.188.160.11:45576 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874676: New connection from 130.188.160.11:45578 on port 1883.
+1647874676: Client iotaul_d0805f53 already connected, closing old connection.
+1647874676: New client connected from 130.188.160.11:45578 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874676: New connection from 130.188.160.11:45580 on port 1883.
+1647874676: Client iotaul_d0805f53 already connected, closing old connection.
+1647874676: New client connected from 130.188.160.11:45580 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874676: New connection from 130.188.160.11:45582 on port 1883.
+1647874676: New connection from 130.188.160.11:45584 on port 1883.
+1647874676: Client iotaul_d0805f53 already connected, closing old connection.
+1647874676: New client connected from 130.188.160.11:45582 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874676: Client iotaul_d0805f53 already connected, closing old connection.
+1647874676: New client connected from 130.188.160.11:45584 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874677: New connection from 130.188.160.11:45586 on port 1883.
+1647874677: Client iotaul_d0805f53 already connected, closing old connection.
+1647874677: New client connected from 130.188.160.11:45586 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874677: New connection from 130.188.160.11:45588 on port 1883.
+1647874677: New connection from 130.188.160.11:45590 on port 1883.
+1647874677: Client iotaul_d0805f53 already connected, closing old connection.
+1647874677: New client connected from 130.188.160.11:45588 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874677: Client iotaul_d0805f53 already connected, closing old connection.
+1647874677: New client connected from 130.188.160.11:45590 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874677: New connection from 130.188.160.11:45592 on port 1883.
+1647874677: New connection from 130.188.160.11:45594 on port 1883.
+1647874677: Client iotaul_d0805f53 already connected, closing old connection.
+1647874677: New client connected from 130.188.160.11:45592 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874677: New connection from 130.188.160.11:45596 on port 1883.
+1647874677: Client iotaul_d0805f53 already connected, closing old connection.
+1647874677: New client connected from 130.188.160.11:45594 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874677: Client iotaul_d0805f53 already connected, closing old connection.
+1647874677: New client connected from 130.188.160.11:45596 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874678: New connection from 130.188.160.11:45598 on port 1883.
+1647874678: Client iotaul_d0805f53 already connected, closing old connection.
+1647874678: New client connected from 130.188.160.11:45598 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874678: New connection from 130.188.160.11:45600 on port 1883.
+1647874678: New connection from 130.188.160.11:45602 on port 1883.
+1647874678: Client iotaul_d0805f53 already connected, closing old connection.
+1647874678: New client connected from 130.188.160.11:45600 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874678: Client iotaul_d0805f53 already connected, closing old connection.
+1647874678: New client connected from 130.188.160.11:45602 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874678: New connection from 130.188.160.11:45604 on port 1883.
+1647874678: Client iotaul_d0805f53 already connected, closing old connection.
+1647874678: New client connected from 130.188.160.11:45604 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874678: New connection from 130.188.160.11:45606 on port 1883.
+1647874678: New connection from 130.188.160.11:45608 on port 1883.
+1647874678: Client iotaul_d0805f53 already connected, closing old connection.
+1647874678: New client connected from 130.188.160.11:45606 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874678: Client iotaul_d0805f53 already connected, closing old connection.
+1647874678: New client connected from 130.188.160.11:45608 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874679: New connection from 130.188.160.11:45610 on port 1883.
+1647874679: New connection from 130.188.160.11:45612 on port 1883.
+1647874679: Client iotaul_d0805f53 already connected, closing old connection.
+1647874679: New client connected from 130.188.160.11:45610 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874679: New connection from 130.188.160.11:45614 on port 1883.
+1647874679: New connection from 130.188.160.11:45616 on port 1883.
+1647874679: Client iotaul_d0805f53 already connected, closing old connection.
+1647874679: New client connected from 130.188.160.11:45612 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874679: Client iotaul_d0805f53 already connected, closing old connection.
+1647874679: New client connected from 130.188.160.11:45614 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874679: Client iotaul_d0805f53 already connected, closing old connection.
+1647874679: New client connected from 130.188.160.11:45616 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874679: New connection from 130.188.160.11:45618 on port 1883.
+1647874679: Client iotaul_d0805f53 already connected, closing old connection.
+1647874679: New client connected from 130.188.160.11:45618 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874679: New connection from 130.188.160.11:45620 on port 1883.
+1647874679: Client iotaul_d0805f53 already connected, closing old connection.
+1647874679: New client connected from 130.188.160.11:45620 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874680: New connection from 130.188.160.11:45622 on port 1883.
+1647874680: Client iotaul_d0805f53 already connected, closing old connection.
+1647874680: New client connected from 130.188.160.11:45622 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874680: New connection from 130.188.160.11:45624 on port 1883.
+1647874680: New connection from 130.188.160.11:45626 on port 1883.
+1647874680: New connection from 130.188.160.11:45628 on port 1883.
+1647874680: Client iotaul_d0805f53 already connected, closing old connection.
+1647874680: New client connected from 130.188.160.11:45624 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874680: New connection from 130.188.160.11:45630 on port 1883.
+1647874680: Client iotaul_d0805f53 already connected, closing old connection.
+1647874680: New client connected from 130.188.160.11:45626 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874680: Client iotaul_d0805f53 already connected, closing old connection.
+1647874680: New client connected from 130.188.160.11:45628 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874680: Client iotaul_d0805f53 already connected, closing old connection.
+1647874680: New client connected from 130.188.160.11:45630 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874680: New connection from 130.188.160.11:45632 on port 1883.
+1647874680: Client iotaul_d0805f53 already connected, closing old connection.
+1647874680: New client connected from 130.188.160.11:45632 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874681: New connection from 130.188.160.11:45634 on port 1883.
+1647874681: Client iotaul_d0805f53 already connected, closing old connection.
+1647874681: New client connected from 130.188.160.11:45634 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874681: New connection from 130.188.160.11:45636 on port 1883.
+1647874681: Client iotaul_d0805f53 already connected, closing old connection.
+1647874681: New client connected from 130.188.160.11:45636 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874681: New connection from 130.188.160.11:45638 on port 1883.
+1647874681: New connection from 130.188.160.11:45640 on port 1883.
+1647874681: New connection from 130.188.160.11:45642 on port 1883.
+1647874681: Client iotaul_d0805f53 already connected, closing old connection.
+1647874681: New client connected from 130.188.160.11:45638 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874681: Client iotaul_d0805f53 already connected, closing old connection.
+1647874681: New client connected from 130.188.160.11:45640 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874681: New connection from 130.188.160.11:45644 on port 1883.
+1647874681: Client iotaul_d0805f53 already connected, closing old connection.
+1647874681: New client connected from 130.188.160.11:45642 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874681: Client iotaul_d0805f53 already connected, closing old connection.
+1647874681: New client connected from 130.188.160.11:45644 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874682: New connection from 130.188.160.11:45646 on port 1883.
+1647874682: Client iotaul_d0805f53 already connected, closing old connection.
+1647874682: New client connected from 130.188.160.11:45646 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874682: New connection from 130.188.160.11:45648 on port 1883.
+1647874682: Client iotaul_d0805f53 already connected, closing old connection.
+1647874682: New client connected from 130.188.160.11:45648 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874682: New connection from 130.188.160.11:45650 on port 1883.
+1647874682: Client iotaul_d0805f53 already connected, closing old connection.
+1647874682: New client connected from 130.188.160.11:45650 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874682: New connection from 130.188.160.11:45652 on port 1883.
+1647874682: Client iotaul_d0805f53 already connected, closing old connection.
+1647874682: New client connected from 130.188.160.11:45652 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874682: New connection from 130.188.160.11:45654 on port 1883.
+1647874682: New connection from 130.188.160.11:45656 on port 1883.
+1647874682: Client iotaul_d0805f53 already connected, closing old connection.
+1647874682: New client connected from 130.188.160.11:45654 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874682: Client iotaul_d0805f53 already connected, closing old connection.
+1647874682: New client connected from 130.188.160.11:45656 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874683: New connection from 130.188.160.11:45658 on port 1883.
+1647874683: Client iotaul_d0805f53 already connected, closing old connection.
+1647874683: New client connected from 130.188.160.11:45658 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874683: New connection from 130.188.160.11:45660 on port 1883.
+1647874683: Client iotaul_d0805f53 already connected, closing old connection.
+1647874683: New client connected from 130.188.160.11:45660 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874683: New connection from 130.188.160.11:45662 on port 1883.
+1647874683: New connection from 130.188.160.11:45664 on port 1883.
+1647874683: Client iotaul_d0805f53 already connected, closing old connection.
+1647874683: New client connected from 130.188.160.11:45662 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874683: Client iotaul_d0805f53 already connected, closing old connection.
+1647874683: New client connected from 130.188.160.11:45664 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874683: New connection from 130.188.160.11:45666 on port 1883.
+1647874683: New connection from 130.188.160.11:45668 on port 1883.
+1647874683: Client iotaul_d0805f53 already connected, closing old connection.
+1647874683: New client connected from 130.188.160.11:45666 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874683: Client iotaul_d0805f53 already connected, closing old connection.
+1647874683: New client connected from 130.188.160.11:45668 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874684: New connection from 130.188.160.11:45670 on port 1883.
+1647874684: Client iotaul_d0805f53 already connected, closing old connection.
+1647874684: New client connected from 130.188.160.11:45670 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874684: New connection from 130.188.160.11:45672 on port 1883.
+1647874684: Client iotaul_d0805f53 already connected, closing old connection.
+1647874684: New client connected from 130.188.160.11:45672 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874684: New connection from 130.188.160.11:45674 on port 1883.
+1647874684: New connection from 130.188.160.11:45676 on port 1883.
+1647874684: Client iotaul_d0805f53 already connected, closing old connection.
+1647874684: New client connected from 130.188.160.11:45674 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874684: Client iotaul_d0805f53 already connected, closing old connection.
+1647874684: New client connected from 130.188.160.11:45676 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874684: New connection from 130.188.160.11:45678 on port 1883.
+1647874684: New connection from 130.188.160.11:45680 on port 1883.
+1647874684: Client iotaul_d0805f53 already connected, closing old connection.
+1647874684: New client connected from 130.188.160.11:45678 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874684: Client iotaul_d0805f53 already connected, closing old connection.
+1647874684: New client connected from 130.188.160.11:45680 as iotaul_d0805f53 (p2, c1, k60, u'px4').
+1647874684: Client iotaul_d0805f53 closed its connection.
+1647874692: New connection from 130.188.160.11:45682 on port 1883.
+1647874692: New client connected from 130.188.160.11:45682 as iotaul_57c1ac5d (p2, c1, k60, u'px4').
+1647874759: New connection from 130.188.160.13:37273 on port 1883.
+1647874759: New client connected from 130.188.160.13:37273 as tester-pub (p2, c1, k60, u'px4').
+TS2.1,1647874653.240551
+TS2.1,1647874656.316116
+TS2.1,1647874658.356188
+TS2.1,1647874659.363216
+TS2.1,1647874660.338740
+TS2.1,1647874661.347638
+TS2.1,1647874661.355206
+TS2.1,1647874662.365094
+TS2.1,1647874662.370015
+TS2.1,1647874663.384098
+TS2.1,1647874664.391263
+TS2.1,1647874665.409807
+TS2.1,1647874666.422403
+TS2.1,1647874667.405454
+TS2.1,1647874668.417512
+TS2.1,1647874668.424265
+TS2.1,1647874669.433766
+TS2.1,1647874670.454571
+TS2.1,1647874671.462673
+TS2.1,1647874672.480845
+TS2.1,1647874673.489380
+TS2.1,1647874675.494644
+TS2.1,1647874676.504317
+TS2.1,1647874677.523826
+TS2.1,1647874678.539452
+TS2.1,1647874679.556304
+TS2.1,1647874679.559764
+TS2.1,1647874680.567881
+TS2.1,1647874681.563905
+TS2.1,1647874682.572864
+TS2.1,1647874682.578144
+TS2.1,1647874683.585142
+TS2.1,1647874684.603325
+TS2.1,1647874692.823913
+/54321/drone001/attrs,TS2,1647874759.77408
+/54321/drone001/attrs,TS2,1647874759.78609
+/54321/drone001/attrs,TS2,1647874759.81066
+/54321/drone001/attrs,TS2,1647874759.83514
+/54321/drone001/attrs,TS2,1647874759.85908
+/54321/drone001/attrs,TS2,1647874759.87715
+/54321/drone001/attrs,TS2,1647874759.89880
+/54321/drone001/attrs,TS2,1647874759.92488
+/54321/drone001/attrs,TS2,1647874759.94568
+/54321/drone001/attrs,TS2,1647874759.96872
+/54321/drone001/attrs,TS2,1647874759.99398
+/54321/drone001/attrs,TS2,1647874759.101932
+/54321/drone001/attrs,TS2,1647874759.104323
+/54321/drone001/attrs,TS2,1647874759.106903
+/54321/drone001/attrs,TS2,1647874759.109248
+/54321/drone001/attrs,TS2,1647874759.111492
+/54321/drone001/attrs,TS2,1647874759.113849
+/54321/drone001/attrs,TS2,1647874759.116330
+/54321/drone001/attrs,TS2,1647874759.118950
+/54321/drone001/attrs,TS2,1647874759.121516
+/54321/drone001/attrs,TS2,1647874759.123923
+/54321/drone001/attrs,TS2,1647874759.126144
+/54321/drone001/attrs,TS2,1647874759.128417
+/54321/drone001/attrs,TS2,1647874759.130671
+/54321/drone001/attrs,TS2,1647874759.133008
+/54321/drone001/attrs,TS2,1647874759.135281
+/54321/drone001/attrs,TS2,1647874759.137512
+/54321/drone001/attrs,TS2,1647874759.139842
+/54321/drone001/attrs,TS2,1647874759.142073
+/54321/drone001/attrs,TS2,1647874759.144223
+/54321/drone001/attrs,TS2,1647874759.146481
+/54321/drone001/attrs,TS2,1647874759.148956
+/54321/drone001/attrs,TS2,1647874759.151253
+/54321/drone001/attrs,TS2,1647874759.153594
+/54321/drone001/attrs,TS2,1647874759.155780
+/54321/drone001/attrs,TS2,1647874759.158141
+/54321/drone001/attrs,TS2,1647874759.160325
+/54321/drone001/attrs,TS2,1647874759.162668
+/54321/drone001/attrs,TS2,1647874759.164950
+/54321/drone001/attrs,TS2,1647874759.167241
+/54321/drone001/attrs,TS2,1647874759.169500
+/54321/drone001/attrs,TS2,1647874759.171842
+/54321/drone001/attrs,TS2,1647874759.174182
+/54321/drone001/attrs,TS2,1647874759.176508
+/54321/drone001/attrs,TS2,1647874759.178865
+/54321/drone001/attrs,TS2,1647874759.181195
+/54321/drone001/attrs,TS2,1647874759.183531
+/54321/drone001/attrs,TS2,1647874759.185770
+/54321/drone001/attrs,TS2,1647874759.188154
+/54321/drone001/attrs,TS2,1647874759.190482
+/54321/drone001/attrs,TS2,1647874759.192984
+/54321/drone001/attrs,TS2,1647874759.195231
+/54321/drone001/attrs,TS2,1647874759.197578
+/54321/drone001/attrs,TS2,1647874759.199917
+/54321/drone001/attrs,TS2,1647874759.202190
+/54321/drone001/attrs,TS2,1647874759.204549
+/54321/drone001/attrs,TS2,1647874759.207091
+/54321/drone001/attrs,TS2,1647874759.209353
+/54321/drone001/attrs,TS2,1647874759.211637
+/54321/drone001/attrs,TS2,1647874759.213866
+/54321/drone001/attrs,TS2,1647874759.216173
+/54321/drone001/attrs,TS2,1647874759.218687
+/54321/drone001/attrs,TS2,1647874759.220930
+/54321/drone001/attrs,TS2,1647874759.223217
+/54321/drone001/attrs,TS2,1647874759.225610
+/54321/drone001/attrs,TS2,1647874759.228003
+/54321/drone001/attrs,TS2,1647874759.230294
+/54321/drone001/attrs,TS2,1647874759.232656
+/54321/drone001/attrs,TS2,1647874759.234952
+/54321/drone001/attrs,TS2,1647874759.237272
+/54321/drone001/attrs,TS2,1647874759.239694
+/54321/drone001/attrs,TS2,1647874759.242181
+/54321/drone001/attrs,TS2,1647874759.244714
+/54321/drone001/attrs,TS2,1647874759.246861
+/54321/drone001/attrs,TS2,1647874759.249074
+/54321/drone001/attrs,TS2,1647874759.251571
+/54321/drone001/attrs,TS2,1647874759.254144
+/54321/drone001/attrs,TS2,1647874759.256315
+/54321/drone001/attrs,TS2,1647874759.258656
+/54321/drone001/attrs,TS2,1647874759.261041
+/54321/drone001/attrs,TS2,1647874759.263359
+/54321/drone001/attrs,TS2,1647874759.265709
+/54321/drone001/attrs,TS2,1647874759.268012
+/54321/drone001/attrs,TS2,1647874759.270397
+/54321/drone001/attrs,TS2,1647874759.272771
+/54321/drone001/attrs,TS2,1647874759.275789
+/54321/drone001/attrs,TS2,1647874759.277127
+/54321/drone001/attrs,TS2,1647874759.279823
+/54321/drone001/attrs,TS2,1647874759.282158
+/54321/drone001/attrs,TS2,1647874759.284400
+/54321/drone001/attrs,TS2,1647874759.286775
+/54321/drone001/attrs,TS2,1647874759.289165
+/54321/drone001/attrs,TS2,1647874759.291516
+/54321/drone001/attrs,TS2,1647874759.293869
+/54321/drone001/attrs,TS2,1647874759.296245
+/54321/drone001/attrs,TS2,1647874759.298628
+/54321/drone001/attrs,TS2,1647874759.300868
+/54321/drone001/attrs,TS2,1647874759.303263
+/54321/drone001/attrs,TS2,1647874759.305701
+/54321/drone001/attrs,TS2,1647874759.308034
+/54321/drone001/attrs,TS2,1647874759.310380
+/54321/drone001/attrs,TS2,1647874759.312657
+/54321/drone001/attrs,TS2,1647874759.315019
+/54321/drone001/attrs,TS2,1647874759.317369
+/54321/drone001/attrs,TS2,1647874759.319694
+/54321/drone001/attrs,TS2,1647874759.322037
+/54321/drone001/attrs,TS2,1647874759.324284
+/54321/drone001/attrs,TS2,1647874759.326790
+/54321/drone001/attrs,TS2,1647874759.329127
+/54321/drone001/attrs,TS2,1647874759.331407
+/54321/drone001/attrs,TS2,1647874759.333783
+/54321/drone001/attrs,TS2,1647874759.336162
+/54321/drone001/attrs,TS2,1647874759.338554
+/54321/drone001/attrs,TS2,1647874759.341382
+/54321/drone001/attrs,TS2,1647874759.343344
+/54321/drone001/attrs,TS2,1647874759.345683
+/54321/drone001/attrs,TS2,1647874759.348086
+/54321/drone001/attrs,TS2,1647874759.350439
+/54321/drone001/attrs,TS2,1647874759.352796
+/54321/drone001/attrs,TS2,1647874759.355171
+/54321/drone001/attrs,TS2,1647874759.357608
+/54321/drone001/attrs,TS2,1647874759.359984
+/54321/drone001/attrs,TS2,1647874759.362585
+/54321/drone001/attrs,TS2,1647874759.364798
+/54321/drone001/attrs,TS2,1647874759.367151
+/54321/drone001/attrs,TS2,1647874759.369599
+/54321/drone001/attrs,TS2,1647874759.371942
+/54321/drone001/attrs,TS2,1647874759.374289
+/54321/drone001/attrs,TS2,1647874759.376506
+/54321/drone001/attrs,TS2,1647874759.379043
+/54321/drone001/attrs,TS2,1647874759.381371
+/54321/drone001/attrs,TS2,1647874759.383769
+/54321/drone001/attrs,TS2,1647874759.386116
+/54321/drone001/attrs,TS2,1647874759.388183
+/54321/drone001/attrs,TS2,1647874759.390912
+/54321/drone001/attrs,TS2,1647874759.393341
+/54321/drone001/attrs,TS2,1647874759.395734
+/54321/drone001/attrs,TS2,1647874759.398019
+/54321/drone001/attrs,TS2,1647874759.400354
+/54321/drone001/attrs,TS2,1647874759.402888
+/54321/drone001/attrs,TS2,1647874759.405024
+/54321/drone001/attrs,TS2,1647874759.407517
+/54321/drone001/attrs,TS2,1647874759.410373
+/54321/drone001/attrs,TS2,1647874759.412020
+/54321/drone001/attrs,TS2,1647874759.414675
+/54321/drone001/attrs,TS2,1647874759.417105
+/54321/drone001/attrs,TS2,1647874759.419366
+/54321/drone001/attrs,TS2,1647874759.421685
+/54321/drone001/attrs,TS2,1647874759.424091
+/54321/drone001/attrs,TS2,1647874759.426383
+/54321/drone001/attrs,TS2,1647874759.428761
+/54321/drone001/attrs,TS2,1647874759.431086
+/54321/drone001/attrs,TS2,1647874759.433425
+/54321/drone001/attrs,TS2,1647874759.435802
+/54321/drone001/attrs,TS2,1647874759.438084
+/54321/drone001/attrs,TS2,1647874759.440404
+/54321/drone001/attrs,TS2,1647874759.442687
+/54321/drone001/attrs,TS2,1647874759.445044
+/54321/drone001/attrs,TS2,1647874759.447283
+/54321/drone001/attrs,TS2,1647874759.449534
+/54321/drone001/attrs,TS2,1647874759.451861
+/54321/drone001/attrs,TS2,1647874759.454127
+/54321/drone001/attrs,TS2,1647874759.456607
+/54321/drone001/attrs,TS2,1647874759.458976
+/54321/drone001/attrs,TS2,1647874759.461331
+/54321/drone001/attrs,TS2,1647874759.463597
+/54321/drone001/attrs,TS2,1647874759.466035
+/54321/drone001/attrs,TS2,1647874759.468357
+/54321/drone001/attrs,TS2,1647874759.471327
+/54321/drone001/attrs,TS2,1647874759.473068
+/54321/drone001/attrs,TS2,1647874759.475394
+/54321/drone001/attrs,TS2,1647874759.477709
+/54321/drone001/attrs,TS2,1647874759.480111
+/54321/drone001/attrs,TS2,1647874759.482496
+/54321/drone001/attrs,TS2,1647874759.485025
+/54321/drone001/attrs,TS2,1647874759.487254
+/54321/drone001/attrs,TS2,1647874759.489549
+/54321/drone001/attrs,TS2,1647874759.491896
+/54321/drone001/attrs,TS2,1647874759.494182
+/54321/drone001/attrs,TS2,1647874759.496322
+/54321/drone001/attrs,TS2,1647874759.498722
+/54321/drone001/attrs,TS2,1647874759.501065
+/54321/drone001/attrs,TS2,1647874759.503401
+/54321/drone001/attrs,TS2,1647874759.505782
+/54321/drone001/attrs,TS2,1647874759.508018
+/54321/drone001/attrs,TS2,1647874759.510385
+/54321/drone001/attrs,TS2,1647874759.512769
+/54321/drone001/attrs,TS2,1647874759.515145
+/54321/drone001/attrs,TS2,1647874759.517502
+/54321/drone001/attrs,TS2,1647874759.519821
+/54321/drone001/attrs,TS2,1647874759.522160
+/54321/drone001/attrs,TS2,1647874759.524537
+/54321/drone001/attrs,TS2,1647874759.526906
+/54321/drone001/attrs,TS2,1647874759.529206
+/54321/drone001/attrs,TS2,1647874759.531539
+/54321/drone001/attrs,TS2,1647874759.533958
+/54321/drone001/attrs,TS2,1647874759.536489
+/54321/drone001/attrs,TS2,1647874759.538494
+/54321/drone001/attrs,TS2,1647874759.540812
+/54321/drone001/attrs,TS2,1647874759.543211
+/54321/drone001/attrs,TS2,1647874759.545518
+/54321/drone001/attrs,TS2,1647874759.547857
+/54321/drone001/attrs,TS2,1647874759.550169
+/54321/drone001/attrs,TS2,1647874759.552570
+/54321/drone001/attrs,TS2,1647874759.554918
+/54321/drone001/attrs,TS2,1647874759.557267
+/54321/drone001/attrs,TS2,1647874759.559629
+/54321/drone001/attrs,TS2,1647874759.562139
+/54321/drone001/attrs,TS2,1647874759.564435
+/54321/drone001/attrs,TS2,1647874759.566759
+/54321/drone001/attrs,TS2,1647874759.569023
+/54321/drone001/attrs,TS2,1647874759.571502
+/54321/drone001/attrs,TS2,1647874759.573846
+/54321/drone001/attrs,TS2,1647874759.576168
+/54321/drone001/attrs,TS2,1647874759.578587
+/54321/drone001/attrs,TS2,1647874759.580956
+/54321/drone001/attrs,TS2,1647874759.583597
+/54321/drone001/attrs,TS2,1647874759.585970
+/54321/drone001/attrs,TS2,1647874759.588258
+/54321/drone001/attrs,TS2,1647874759.590635
+/54321/drone001/attrs,TS2,1647874759.593018
+/54321/drone001/attrs,TS2,1647874759.595383
+/54321/drone001/attrs,TS2,1647874759.597655
+/54321/drone001/attrs,TS2,1647874759.599947
+/54321/drone001/attrs,TS2,1647874759.602354
+/54321/drone001/attrs,TS2,1647874759.604769
+/54321/drone001/attrs,TS2,1647874759.607109
+/54321/drone001/attrs,TS2,1647874759.609453
+/54321/drone001/attrs,TS2,1647874759.611864
+/54321/drone001/attrs,TS2,1647874759.614216
+/54321/drone001/attrs,TS2,1647874759.616568
+/54321/drone001/attrs,TS2,1647874759.618784
+/54321/drone001/attrs,TS2,1647874759.621174
+/54321/drone001/attrs,TS2,1647874759.623555
+/54321/drone001/attrs,TS2,1647874759.625981
+/54321/drone001/attrs,TS2,1647874759.628261
+/54321/drone001/attrs,TS2,1647874759.630672
+/54321/drone001/attrs,TS2,1647874759.632811
+/54321/drone001/attrs,TS2,1647874759.635434
+/54321/drone001/attrs,TS2,1647874759.637923
+/54321/drone001/attrs,TS2,1647874759.640285
+/54321/drone001/attrs,TS2,1647874759.642677
+/54321/drone001/attrs,TS2,1647874759.644943
+/54321/drone001/attrs,TS2,1647874759.647368
+/54321/drone001/attrs,TS2,1647874759.649911
+/54321/drone001/attrs,TS2,1647874759.652275
+/54321/drone001/attrs,TS2,1647874759.654696
+/54321/drone001/attrs,TS2,1647874759.657106
+/54321/drone001/attrs,TS2,1647874759.659356
+/54321/drone001/attrs,TS2,1647874759.661787
+/54321/drone001/attrs,TS2,1647874759.664106
+/54321/drone001/attrs,TS2,1647874759.666811
+/54321/drone001/attrs,TS2,1647874759.668865
+/54321/drone001/attrs,TS2,1647874759.671209
+/54321/drone001/attrs,TS2,1647874759.673571
+/54321/drone001/attrs,TS2,1647874759.675928
+/54321/drone001/attrs,TS2,1647874759.678267
+/54321/drone001/attrs,TS2,1647874759.680627
+/54321/drone001/attrs,TS2,1647874759.682942
+/54321/drone001/attrs,TS2,1647874759.685284
+/54321/drone001/attrs,TS2,1647874759.687544
+/54321/drone001/attrs,TS2,1647874759.690048
+/54321/drone001/attrs,TS2,1647874759.692327
+/54321/drone001/attrs,TS2,1647874759.694802
+/54321/drone001/attrs,TS2,1647874759.697140
+/54321/drone001/attrs,TS2,1647874759.699446
+/54321/drone001/attrs,TS2,1647874759.701824
+/54321/drone001/attrs,TS2,1647874759.704129
+/54321/drone001/attrs,TS2,1647874759.706519
+/54321/drone001/attrs,TS2,1647874759.708956
+/54321/drone001/attrs,TS2,1647874759.711257
+/54321/drone001/attrs,TS2,1647874759.713739
+/54321/drone001/attrs,TS2,1647874759.716137
+/54321/drone001/attrs,TS2,1647874759.718431
+/54321/drone001/attrs,TS2,1647874759.720665
+/54321/drone001/attrs,TS2,1647874759.723212
+/54321/drone001/attrs,TS2,1647874759.725621
+/54321/drone001/attrs,TS2,1647874759.727948
+/54321/drone001/attrs,TS2,1647874759.730290
+/54321/drone001/attrs,TS2,1647874759.732527
+/54321/drone001/attrs,TS2,1647874759.735005
+/54321/drone001/attrs,TS2,1647874759.737368
+/54321/drone001/attrs,TS2,1647874759.739688
+/54321/drone001/attrs,TS2,1647874759.742021
+/54321/drone001/attrs,TS2,1647874759.744346
+/54321/drone001/attrs,TS2,1647874759.746754
+/54321/drone001/attrs,TS2,1647874759.749086
+/54321/drone001/attrs,TS2,1647874759.751404
+/54321/drone001/attrs,TS2,1647874759.753823
+/54321/drone001/attrs,TS2,1647874759.756189
+/54321/drone001/attrs,TS2,1647874759.758517
+/54321/drone001/attrs,TS2,1647874759.760875
+/54321/drone001/attrs,TS2,1647874759.763252
+/54321/drone001/attrs,TS2,1647874759.765361
+/54321/drone001/attrs,TS2,1647874759.767815
+/54321/drone001/attrs,TS2,1647874759.770325
+/54321/drone001/attrs,TS2,1647874759.772600
+/54321/drone001/attrs,TS2,1647874759.775019
+/54321/drone001/attrs,TS2,1647874759.777334
+/54321/drone001/attrs,TS2,1647874759.779681
+/54321/drone001/attrs,TS2,1647874759.782037
+/54321/drone001/attrs,TS2,1647874759.784321
+/54321/drone001/attrs,TS2,1647874759.786690
+/54321/drone001/attrs,TS2,1647874759.789025
+/54321/drone001/attrs,TS2,1647874759.791306
+/54321/drone001/attrs,TS2,1647874759.793702
+/54321/drone001/attrs,TS2,1647874759.796762
+/54321/drone001/attrs,TS2,1647874759.798295
+/54321/drone001/attrs,TS2,1647874759.800884
+/54321/drone001/attrs,TS2,1647874759.803229
+/54321/drone001/attrs,TS2,1647874759.805517
+/54321/drone001/attrs,TS2,1647874759.807787
+/54321/drone001/attrs,TS2,1647874759.810146
+/54321/drone001/attrs,TS2,1647874759.812383
+/54321/drone001/attrs,TS2,1647874759.814687
+/54321/drone001/attrs,TS2,1647874759.817162
+/54321/drone001/attrs,TS2,1647874759.819414
+/54321/drone001/attrs,TS2,1647874759.821772
+/54321/drone001/attrs,TS2,1647874759.824164
+/54321/drone001/attrs,TS2,1647874759.826441
+/54321/drone001/attrs,TS2,1647874759.828850
+/54321/drone001/attrs,TS2,1647874759.831128
+/54321/drone001/attrs,TS2,1647874759.833497
+/54321/drone001/attrs,TS2,1647874759.835876
+/54321/drone001/attrs,TS2,1647874759.838104
+/54321/drone001/attrs,TS2,1647874759.840526
+/54321/drone001/attrs,TS2,1647874759.842837
+/54321/drone001/attrs,TS2,1647874759.845249
+/54321/drone001/attrs,TS2,1647874759.847579
+/54321/drone001/attrs,TS2,1647874759.849944
+/54321/drone001/attrs,TS2,1647874759.852419
+/54321/drone001/attrs,TS2,1647874759.854757
+/54321/drone001/attrs,TS2,1647874759.857058
+/54321/drone001/attrs,TS2,1647874759.859434
+/54321/drone001/attrs,TS2,1647874759.861860
+/54321/drone001/attrs,TS2,1647874759.864011
+/54321/drone001/attrs,TS2,1647874759.866395
+/54321/drone001/attrs,TS2,1647874759.868939
+/54321/drone001/attrs,TS2,1647874759.871190
+/54321/drone001/attrs,TS2,1647874759.873525
+/54321/drone001/attrs,TS2,1647874759.875974
+/54321/drone001/attrs,TS2,1647874759.878334
+/54321/drone001/attrs,TS2,1647874759.880689
+/54321/drone001/attrs,TS2,1647874759.883031
+/54321/drone001/attrs,TS2,1647874759.885371
+/54321/drone001/attrs,TS2,1647874759.887696
+/54321/drone001/attrs,TS2,1647874759.890065
+/54321/drone001/attrs,TS2,1647874759.892449
+/54321/drone001/attrs,TS2,1647874759.894804
+/54321/drone001/attrs,TS2,1647874759.897188
+/54321/drone001/attrs,TS2,1647874759.899506
+/54321/drone001/attrs,TS2,1647874759.901697
+/54321/drone001/attrs,TS2,1647874759.904200
+/54321/drone001/attrs,TS2,1647874759.906596
+/54321/drone001/attrs,TS2,1647874759.909110
+/54321/drone001/attrs,TS2,1647874759.911447
+/54321/drone001/attrs,TS2,1647874759.913840
+/54321/drone001/attrs,TS2,1647874759.916163
+/54321/drone001/attrs,TS2,1647874759.918679
+/54321/drone001/attrs,TS2,1647874759.921018
+/54321/drone001/attrs,TS2,1647874759.923315
+/54321/drone001/attrs,TS2,1647874759.925704
+/54321/drone001/attrs,TS2,1647874759.927834
+/54321/drone001/attrs,TS2,1647874759.930401
+/54321/drone001/attrs,TS2,1647874759.932794
+/54321/drone001/attrs,TS2,1647874759.935113
+/54321/drone001/attrs,TS2,1647874759.937484
+/54321/drone001/attrs,TS2,1647874759.939829
+/54321/drone001/attrs,TS2,1647874759.942173
+/54321/drone001/attrs,TS2,1647874759.944572
+/54321/drone001/attrs,TS2,1647874759.946922
+/54321/drone001/attrs,TS2,1647874759.949090
+/54321/drone001/attrs,TS2,1647874759.951585
+/54321/drone001/attrs,TS2,1647874759.953887
+/54321/drone001/attrs,TS2,1647874759.956323
+/54321/drone001/attrs,TS2,1647874759.958668
+/54321/drone001/attrs,TS2,1647874759.961039
+/54321/drone001/attrs,TS2,1647874759.963407
+/54321/drone001/attrs,TS2,1647874759.965718
+/54321/drone001/attrs,TS2,1647874759.968020
+/54321/drone001/attrs,TS2,1647874759.970574
+/54321/drone001/attrs,TS2,1647874759.972837
+/54321/drone001/attrs,TS2,1647874759.975196
+/54321/drone001/attrs,TS2,1647874759.977633
+/54321/drone001/attrs,TS2,1647874759.979964
+/54321/drone001/attrs,TS2,1647874759.982289
+/54321/drone001/attrs,TS2,1647874759.984454
+/54321/drone001/attrs,TS2,1647874759.987068
+/54321/drone001/attrs,TS2,1647874759.989279
+/54321/drone001/attrs,TS2,1647874759.992157
+/54321/drone001/attrs,TS2,1647874759.993860
+/54321/drone001/attrs,TS2,1647874759.996237
+/54321/drone001/attrs,TS2,1647874759.998774
+/54321/drone001/attrs,TS2,1647874760.1067
+/54321/drone001/attrs,TS2,1647874760.3299
+/54321/drone001/attrs,TS2,1647874760.5642
+/54321/drone001/attrs,TS2,1647874760.7988
+/54321/drone001/attrs,TS2,1647874760.10358
+/54321/drone001/attrs,TS2,1647874760.12681
+/54321/drone001/attrs,TS2,1647874760.15023
+/54321/drone001/attrs,TS2,1647874760.17407
+/54321/drone001/attrs,TS2,1647874760.19686
+/54321/drone001/attrs,TS2,1647874760.22079
+/54321/drone001/attrs,TS2,1647874760.24583
+/54321/drone001/attrs,TS2,1647874760.26795
+/54321/drone001/attrs,TS2,1647874760.29144
+/54321/drone001/attrs,TS2,1647874760.31666
+/54321/drone001/attrs,TS2,1647874760.33801
+/54321/drone001/attrs,TS2,1647874760.36151
+/54321/drone001/attrs,TS2,1647874760.39194
+/54321/drone001/attrs,TS2,1647874760.41573
+/54321/drone001/attrs,TS2,1647874760.43904
+/54321/drone001/attrs,TS2,1647874760.46288
+/54321/drone001/attrs,TS2,1647874760.48684
+/54321/drone001/attrs,TS2,1647874760.50993
+/54321/drone001/attrs,TS2,1647874760.53327
+/54321/drone001/attrs,TS2,1647874760.55703
+/54321/drone001/attrs,TS2,1647874760.57997
+/54321/drone001/attrs,TS2,1647874760.60420
+/54321/drone001/attrs,TS2,1647874760.63012
+/54321/drone001/attrs,TS2,1647874760.65191
+/54321/drone001/attrs,TS2,1647874760.67590
+/54321/drone001/attrs,TS2,1647874760.69860
+/54321/drone001/attrs,TS2,1647874760.72267
+/54321/drone001/attrs,TS2,1647874760.74671
+/54321/drone001/attrs,TS2,1647874760.77258
+/54321/drone001/attrs,TS2,1647874760.79481
+/54321/drone001/attrs,TS2,1647874760.81770
+/54321/drone001/attrs,TS2,1647874760.84233
+/54321/drone001/attrs,TS2,1647874760.86555
+/54321/drone001/attrs,TS2,1647874760.88633
+/54321/drone001/attrs,TS2,1647874760.91075
+/54321/drone001/attrs,TS2,1647874760.93420
+/54321/drone001/attrs,TS2,1647874760.95774
+/54321/drone001/attrs,TS2,1647874760.98174
+/54321/drone001/attrs,TS2,1647874760.100531
+/54321/drone001/attrs,TS2,1647874760.102901
+/54321/drone001/attrs,TS2,1647874760.105221
+/54321/drone001/attrs,TS2,1647874760.107452
+/54321/drone001/attrs,TS2,1647874760.109906
+/54321/drone001/attrs,TS2,1647874760.112422
+/54321/drone001/attrs,TS2,1647874760.114693
+/54321/drone001/attrs,TS2,1647874760.117073
+/54321/drone001/attrs,TS2,1647874760.119293
+/54321/drone001/attrs,TS2,1647874760.122539
+/54321/drone001/attrs,TS2,1647874760.124295
+/54321/drone001/attrs,TS2,1647874760.126826
+/54321/drone001/attrs,TS2,1647874760.129082
+/54321/drone001/attrs,TS2,1647874760.131547
+/54321/drone001/attrs,TS2,1647874760.133805
+/54321/drone001/attrs,TS2,1647874760.136128
+/54321/drone001/attrs,TS2,1647874760.138689
+/54321/drone001/attrs,TS2,1647874760.141038
+/54321/drone001/attrs,TS2,1647874760.143308
+/54321/drone001/attrs,TS2,1647874760.145564
+/54321/drone001/attrs,TS2,1647874760.148088
+/54321/drone001/attrs,TS2,1647874760.150600
+/54321/drone001/attrs,TS2,1647874760.152870
+/54321/drone001/attrs,TS2,1647874760.155284
+/54321/drone001/attrs,TS2,1647874760.157503
+/54321/drone001/attrs,TS2,1647874760.159869
+/54321/drone001/attrs,TS2,1647874760.162410
+/54321/drone001/attrs,TS2,1647874760.164688
+/54321/drone001/attrs,TS2,1647874760.167197
+/54321/drone001/attrs,TS2,1647874760.169378
+/54321/drone001/attrs,TS2,1647874760.171753
+/54321/drone001/attrs,TS2,1647874760.174230
+/54321/drone001/attrs,TS2,1647874760.176453
+/54321/drone001/attrs,TS2,1647874760.178643
+/54321/drone001/attrs,TS2,1647874760.181165
+/54321/drone001/attrs,TS2,1647874760.183486
+/54321/drone001/attrs,TS2,1647874760.185878
+/54321/drone001/attrs,TS2,1647874760.188128
+/54321/drone001/attrs,TS2,1647874760.190488
+/54321/drone001/attrs,TS2,1647874760.192865
+/54321/drone001/attrs,TS2,1647874760.195244
+/54321/drone001/attrs,TS2,1647874760.197551
+/54321/drone001/attrs,TS2,1647874760.200075
+/54321/drone001/attrs,TS2,1647874760.202653
+/54321/drone001/attrs,TS2,1647874760.204949
+/54321/drone001/attrs,TS2,1647874760.207298
+/54321/drone001/attrs,TS2,1647874760.209501
+/54321/drone001/attrs,TS2,1647874760.212069
+/54321/drone001/attrs,TS2,1647874760.214353
+/54321/drone001/attrs,TS2,1647874760.216673
+/54321/drone001/attrs,TS2,1647874760.218875
+/54321/drone001/attrs,TS2,1647874760.221180
+/54321/drone001/attrs,TS2,1647874760.223669
+/54321/drone001/attrs,TS2,1647874760.226032
+/54321/drone001/attrs,TS2,1647874760.228187
+/54321/drone001/attrs,TS2,1647874760.230690
+/54321/drone001/attrs,TS2,1647874760.232995
+/54321/drone001/attrs,TS2,1647874760.235280
+/54321/drone001/attrs,TS2,1647874760.237666
+/54321/drone001/attrs,TS2,1647874760.239992
+/54321/drone001/attrs,TS2,1647874760.242322
+/54321/drone001/attrs,TS2,1647874760.244696
+/54321/drone001/attrs,TS2,1647874760.247099
+/54321/drone001/attrs,TS2,1647874760.249535
+/54321/drone001/attrs,TS2,1647874760.252502
+/54321/drone001/attrs,TS2,1647874760.254145
+/54321/drone001/attrs,TS2,1647874760.256713
+/54321/drone001/attrs,TS2,1647874760.259151
+/54321/drone001/attrs,TS2,1647874760.261535
+/54321/drone001/attrs,TS2,1647874760.263935
+/54321/drone001/attrs,TS2,1647874760.266245
+/54321/drone001/attrs,TS2,1647874760.268613
+/54321/drone001/attrs,TS2,1647874760.270943
+/54321/drone001/attrs,TS2,1647874760.273286
+/54321/drone001/attrs,TS2,1647874760.275674
+/54321/drone001/attrs,TS2,1647874760.278032
+/54321/drone001/attrs,TS2,1647874760.280362
+/54321/drone001/attrs,TS2,1647874760.282657
+/54321/drone001/attrs,TS2,1647874760.285070
+/54321/drone001/attrs,TS2,1647874760.287296
+/54321/drone001/attrs,TS2,1647874760.289598
+/54321/drone001/attrs,TS2,1647874760.291953
+/54321/drone001/attrs,TS2,1647874760.294307
+/54321/drone001/attrs,TS2,1647874760.296612
+/54321/drone001/attrs,TS2,1647874760.298938
+/54321/drone001/attrs,TS2,1647874760.301330
+/54321/drone001/attrs,TS2,1647874760.303697
+/54321/drone001/attrs,TS2,1647874760.306018
+/54321/drone001/attrs,TS2,1647874760.308398
+/54321/drone001/attrs,TS2,1647874760.310800
+/54321/drone001/attrs,TS2,1647874760.312883
+/54321/drone001/attrs,TS2,1647874760.315276
+/54321/drone001/attrs,TS2,1647874760.317770
+/54321/drone001/attrs,TS2,1647874760.319937
+/54321/drone001/attrs,TS2,1647874760.322260
+/54321/drone001/attrs,TS2,1647874760.324752
+/54321/drone001/attrs,TS2,1647874760.327033
+/54321/drone001/attrs,TS2,1647874760.329383
+/54321/drone001/attrs,TS2,1647874760.331681
+/54321/drone001/attrs,TS2,1647874760.334047
+/54321/drone001/attrs,TS2,1647874760.343094
+/54321/drone001/attrs,TS2,1647874760.346169
+/54321/drone001/attrs,TS2,1647874760.348690
+/54321/drone001/attrs,TS2,1647874760.350935
+/54321/drone001/attrs,TS2,1647874760.353411
+/54321/drone001/attrs,TS2,1647874760.355619
+/54321/drone001/attrs,TS2,1647874760.357959
+/54321/drone001/attrs,TS2,1647874760.360219
+/54321/drone001/attrs,TS2,1647874760.362829
+/54321/drone001/attrs,TS2,1647874760.365095
+/54321/drone001/attrs,TS2,1647874760.367349
+/54321/drone001/attrs,TS2,1647874760.369628
+/54321/drone001/attrs,TS2,1647874760.372107
+/54321/drone001/attrs,TS2,1647874760.374449
+/54321/drone001/attrs,TS2,1647874760.376781
+/54321/drone001/attrs,TS2,1647874760.379128
+/54321/drone001/attrs,TS2,1647874760.381427
+/54321/drone001/attrs,TS2,1647874760.383587
+/54321/drone001/attrs,TS2,1647874760.386119
+/54321/drone001/attrs,TS2,1647874760.388394
+/54321/drone001/attrs,TS2,1647874760.390692
+/54321/drone001/attrs,TS2,1647874760.393066
+/54321/drone001/attrs,TS2,1647874760.395546
+/54321/drone001/attrs,TS2,1647874760.397851
+/54321/drone001/attrs,TS2,1647874760.400139
+/54321/drone001/attrs,TS2,1647874760.402423
+/54321/drone001/attrs,TS2,1647874760.404771
+/54321/drone001/attrs,TS2,1647874760.407061
+/54321/drone001/attrs,TS2,1647874760.409389
+/54321/drone001/attrs,TS2,1647874760.411894
+/54321/drone001/attrs,TS2,1647874760.414264
+/54321/drone001/attrs,TS2,1647874760.416634
+/54321/drone001/attrs,TS2,1647874760.418915
+/54321/drone001/attrs,TS2,1647874760.421324
+/54321/drone001/attrs,TS2,1647874760.423648
+/54321/drone001/attrs,TS2,1647874760.425955
+/54321/drone001/attrs,TS2,1647874760.428289
+/54321/drone001/attrs,TS2,1647874760.430606
+/54321/drone001/attrs,TS2,1647874760.432970
+/54321/drone001/attrs,TS2,1647874760.435240
+/54321/drone001/attrs,TS2,1647874760.437391
+/54321/drone001/attrs,TS2,1647874760.439897
+/54321/drone001/attrs,TS2,1647874760.442197
+/54321/drone001/attrs,TS2,1647874760.444556
+/54321/drone001/attrs,TS2,1647874760.447574
+/54321/drone001/attrs,TS2,1647874760.449112
+/54321/drone001/attrs,TS2,1647874760.451564
+/54321/drone001/attrs,TS2,1647874760.453979
+/54321/drone001/attrs,TS2,1647874760.456558
+/54321/drone001/attrs,TS2,1647874760.458909
+/54321/drone001/attrs,TS2,1647874760.461139
+/54321/drone001/attrs,TS2,1647874760.463510
+/54321/drone001/attrs,TS2,1647874760.465982
+/54321/drone001/attrs,TS2,1647874760.468261
+/54321/drone001/attrs,TS2,1647874760.470704
+/54321/drone001/attrs,TS2,1647874760.473023
+/54321/drone001/attrs,TS2,1647874760.475349
+/54321/drone001/attrs,TS2,1647874760.477626
+/54321/drone001/attrs,TS2,1647874760.479945
+/54321/drone001/attrs,TS2,1647874760.482241
+/54321/drone001/attrs,TS2,1647874760.484682
+/54321/drone001/attrs,TS2,1647874760.487174
+/54321/drone001/attrs,TS2,1647874760.489628
+/54321/drone001/attrs,TS2,1647874760.491952
+/54321/drone001/attrs,TS2,1647874760.494748
+/54321/drone001/attrs,TS2,1647874760.497310
+/54321/drone001/attrs,TS2,1647874760.499440
+/54321/drone001/attrs,TS2,1647874760.501749
+/54321/drone001/attrs,TS2,1647874760.504164
+/54321/drone001/attrs,TS2,1647874760.506535
+/54321/drone001/attrs,TS2,1647874760.514735
+/54321/drone001/attrs,TS2,1647874760.515681
+/54321/drone001/attrs,TS2,1647874760.515812
+/54321/drone001/attrs,TS2,1647874760.516390
+/54321/drone001/attrs,TS2,1647874760.518307
+/54321/drone001/attrs,TS2,1647874760.520680
+/54321/drone001/attrs,TS2,1647874760.522984
+/54321/drone001/attrs,TS2,1647874760.525361
+/54321/drone001/attrs,TS2,1647874760.527613
+/54321/drone001/attrs,TS2,1647874760.530076
+/54321/drone001/attrs,TS2,1647874760.532449
+/54321/drone001/attrs,TS2,1647874760.534785
+/54321/drone001/attrs,TS2,1647874760.537097
+/54321/drone001/attrs,TS2,1647874760.539627
+/54321/drone001/attrs,TS2,1647874760.541970
+/54321/drone001/attrs,TS2,1647874760.544265
+/54321/drone001/attrs,TS2,1647874760.546498
+/54321/drone001/attrs,TS2,1647874760.548988
+/54321/drone001/attrs,TS2,1647874760.551382
+/54321/drone001/attrs,TS2,1647874760.553709
+/54321/drone001/attrs,TS2,1647874760.556056
+/54321/drone001/attrs,TS2,1647874760.558347
+/54321/drone001/attrs,TS2,1647874760.560816
+/54321/drone001/attrs,TS2,1647874760.563160
+/54321/drone001/attrs,TS2,1647874760.565397
+/54321/drone001/attrs,TS2,1647874760.567804
+/54321/drone001/attrs,TS2,1647874760.570079
+/54321/drone001/attrs,TS2,1647874760.572432
+/54321/drone001/attrs,TS2,1647874760.574850
+/54321/drone001/attrs,TS2,1647874760.577895
+/54321/drone001/attrs,TS2,1647874760.579356
+/54321/drone001/attrs,TS2,1647874760.582001
+/54321/drone001/attrs,TS2,1647874760.584319
+/54321/drone001/attrs,TS2,1647874760.586906
+/54321/drone001/attrs,TS2,1647874760.589160
+/54321/drone001/attrs,TS2,1647874760.591511
+/54321/drone001/attrs,TS2,1647874760.593895
+/54321/drone001/attrs,TS2,1647874760.596145
+/54321/drone001/attrs,TS2,1647874760.598687
+/54321/drone001/attrs,TS2,1647874760.601083
+/54321/drone001/attrs,TS2,1647874760.603399
+/54321/drone001/attrs,TS2,1647874760.605754
+/54321/drone001/attrs,TS2,1647874760.608195
+/54321/drone001/attrs,TS2,1647874760.610550
+/54321/drone001/attrs,TS2,1647874760.612956
+/54321/drone001/attrs,TS2,1647874760.615309
+/54321/drone001/attrs,TS2,1647874760.617543
+/54321/drone001/attrs,TS2,1647874760.619975
+/54321/drone001/attrs,TS2,1647874760.622387
+/54321/drone001/attrs,TS2,1647874760.625094
+/54321/drone001/attrs,TS2,1647874760.627419
+/54321/drone001/attrs,TS2,1647874760.629684
+/54321/drone001/attrs,TS2,1647874760.632045
+/54321/drone001/attrs,TS2,1647874760.634506
+/54321/drone001/attrs,TS2,1647874760.636848
+/54321/drone001/attrs,TS2,1647874760.639237
+/54321/drone001/attrs,TS2,1647874760.641557
+/54321/drone001/attrs,TS2,1647874760.643831
+/54321/drone001/attrs,TS2,1647874760.646176
+/54321/drone001/attrs,TS2,1647874760.648695
+/54321/drone001/attrs,TS2,1647874760.650999
+/54321/drone001/attrs,TS2,1647874760.653384
+/54321/drone001/attrs,TS2,1647874760.655899
+/54321/drone001/attrs,TS2,1647874760.657896
+/54321/drone001/attrs,TS2,1647874760.660266
+/54321/drone001/attrs,TS2,1647874760.662677
+/54321/drone001/attrs,TS2,1647874760.665058
+/54321/drone001/attrs,TS2,1647874760.667410
+/54321/drone001/attrs,TS2,1647874760.669651
+/54321/drone001/attrs,TS2,1647874760.672314
+/54321/drone001/attrs,TS2,1647874760.674712
+/54321/drone001/attrs,TS2,1647874760.677152
+/54321/drone001/attrs,TS2,1647874760.679487
+/54321/drone001/attrs,TS2,1647874760.682028
+/54321/drone001/attrs,TS2,1647874760.684359
+/54321/drone001/attrs,TS2,1647874760.686759
+/54321/drone001/attrs,TS2,1647874760.688951
+/54321/drone001/attrs,TS2,1647874760.691335
+/54321/drone001/attrs,TS2,1647874760.693816
+/54321/drone001/attrs,TS2,1647874760.696170
+/54321/drone001/attrs,TS2,1647874760.698538
+/54321/drone001/attrs,TS2,1647874760.700706
+/54321/drone001/attrs,TS2,1647874760.703170
+/54321/drone001/attrs,TS2,1647874760.705525
+/54321/drone001/attrs,TS2,1647874760.708195
+/54321/drone001/attrs,TS2,1647874760.710158
+/54321/drone001/attrs,TS2,1647874760.712574
+/54321/drone001/attrs,TS2,1647874760.714916
+/54321/drone001/attrs,TS2,1647874760.717204
+/54321/drone001/attrs,TS2,1647874760.719496
+/54321/drone001/attrs,TS2,1647874760.721992
+/54321/drone001/attrs,TS2,1647874760.724311
+/54321/drone001/attrs,TS2,1647874760.726671
+/54321/drone001/attrs,TS2,1647874760.729025
+/54321/drone001/attrs,TS2,1647874760.731417
+/54321/drone001/attrs,TS2,1647874760.733802
+/54321/drone001/attrs,TS2,1647874760.736120
+/54321/drone001/attrs,TS2,1647874760.738386
+/54321/drone001/attrs,TS2,1647874760.740776
+/54321/drone001/attrs,TS2,1647874760.743102
+/54321/drone001/attrs,TS2,1647874760.745297
+/54321/drone001/attrs,TS2,1647874760.747723
+/54321/drone001/attrs,TS2,1647874760.750238
+/54321/drone001/attrs,TS2,1647874760.752560
+/54321/drone001/attrs,TS2,1647874760.755294
+/54321/drone001/attrs,TS2,1647874760.757710
+/54321/drone001/attrs,TS2,1647874760.759991
+/54321/drone001/attrs,TS2,1647874760.762398
+/54321/drone001/attrs,TS2,1647874760.764730
+/54321/drone001/attrs,TS2,1647874760.767177
+/54321/drone001/attrs,TS2,1647874760.769260
+/54321/drone001/attrs,TS2,1647874760.771917
+/54321/drone001/attrs,TS2,1647874760.774070
+/54321/drone001/attrs,TS2,1647874760.776505
+/54321/drone001/attrs,TS2,1647874760.778849
+/54321/drone001/attrs,TS2,1647874760.781243
+/54321/drone001/attrs,TS2,1647874760.783760
+/54321/drone001/attrs,TS2,1647874760.785949
+/54321/drone001/attrs,TS2,1647874760.788296
+/54321/drone001/attrs,TS2,1647874760.790672
+/54321/drone001/attrs,TS2,1647874760.793029
+/54321/drone001/attrs,TS2,1647874760.795379
+/54321/drone001/attrs,TS2,1647874760.797694
+/54321/drone001/attrs,TS2,1647874760.800061
+/54321/drone001/attrs,TS2,1647874760.802483
+/54321/drone001/attrs,TS2,1647874760.804826
+/54321/drone001/attrs,TS2,1647874760.807190
+/54321/drone001/attrs,TS2,1647874760.809666
+/54321/drone001/attrs,TS2,1647874760.812020
+/54321/drone001/attrs,TS2,1647874760.814345
+/54321/drone001/attrs,TS2,1647874760.816583
+/54321/drone001/attrs,TS2,1647874760.819004
+/54321/drone001/attrs,TS2,1647874760.821557
+/54321/drone001/attrs,TS2,1647874760.824015
+/54321/drone001/attrs,TS2,1647874760.826378
+/54321/drone001/attrs,TS2,1647874760.828767
+/54321/drone001/attrs,TS2,1647874760.831167
+/54321/drone001/attrs,TS2,1647874760.833366
+/54321/drone001/attrs,TS2,1647874760.835732
+/54321/drone001/attrs,TS2,1647874760.838332
+/54321/drone001/attrs,TS2,1647874760.840632
+/54321/drone001/attrs,TS2,1647874760.843014
+/54321/drone001/attrs,TS2,1647874760.845213
+/54321/drone001/attrs,TS2,1647874760.847638
+/54321/drone001/attrs,TS2,1647874760.849979
+/54321/drone001/attrs,TS2,1647874760.852327
+/54321/drone001/attrs,TS2,1647874760.854880
+/54321/drone001/attrs,TS2,1647874760.857215
+/54321/drone001/attrs,TS2,1647874760.859431
+/54321/drone001/attrs,TS2,1647874760.863824
+/54321/drone001/attrs,TS2,1647874760.864812
+/54321/drone001/attrs,TS2,1647874760.866862
+/54321/drone001/attrs,TS2,1647874760.869075
+/54321/drone001/attrs,TS2,1647874760.871616
+/54321/drone001/attrs,TS2,1647874760.873864
+/54321/drone001/attrs,TS2,1647874760.876405
+/54321/drone001/attrs,TS2,1647874760.878770
+/54321/drone001/attrs,TS2,1647874760.880931
+/54321/drone001/attrs,TS2,1647874760.883505
+/54321/drone001/attrs,TS2,1647874760.885815
+/54321/drone001/attrs,TS2,1647874760.888098
+/54321/drone001/attrs,TS2,1647874760.890618
+/54321/drone001/attrs,TS2,1647874760.893003
+/54321/drone001/attrs,TS2,1647874760.895341
+/54321/drone001/attrs,TS2,1647874760.897538
+/54321/drone001/attrs,TS2,1647874760.900042
+/54321/drone001/attrs,TS2,1647874760.903071
+/54321/drone001/attrs,TS2,1647874760.904641
+/54321/drone001/attrs,TS2,1647874760.907175
+/54321/drone001/attrs,TS2,1647874760.909554
+/54321/drone001/attrs,TS2,1647874760.911795
+/54321/drone001/attrs,TS2,1647874760.914358
+/54321/drone001/attrs,TS2,1647874760.916695
+/54321/drone001/attrs,TS2,1647874760.919021
+/54321/drone001/attrs,TS2,1647874760.921385
+/54321/drone001/attrs,TS2,1647874760.923739
+/54321/drone001/attrs,TS2,1647874760.926091
+/54321/drone001/attrs,TS2,1647874760.928350
+/54321/drone001/attrs,TS2,1647874760.930783
+/54321/drone001/attrs,TS2,1647874760.933082
+/54321/drone001/attrs,TS2,1647874760.935393
+/54321/drone001/attrs,TS2,1647874760.937772
+/54321/drone001/attrs,TS2,1647874760.940139
+/54321/drone001/attrs,TS2,1647874760.942504
+/54321/drone001/attrs,TS2,1647874760.944840
+/54321/drone001/attrs,TS2,1647874760.947207
+/54321/drone001/attrs,TS2,1647874760.949656
+/54321/drone001/attrs,TS2,1647874760.951932
+/54321/drone001/attrs,TS2,1647874760.954276
+/54321/drone001/attrs,TS2,1647874760.956653
+/54321/drone001/attrs,TS2,1647874760.959017
+/54321/drone001/attrs,TS2,1647874760.961370
+/54321/drone001/attrs,TS2,1647874760.963722
+/54321/drone001/attrs,TS2,1647874760.966110
+/54321/drone001/attrs,TS2,1647874760.968603
+/54321/drone001/attrs,TS2,1647874760.970812
+/54321/drone001/attrs,TS2,1647874760.973123
+/54321/drone001/attrs,TS2,1647874760.975496
+/54321/drone001/attrs,TS2,1647874760.977661
+/54321/drone001/attrs,TS2,1647874760.980219
+/54321/drone001/attrs,TS2,1647874760.982616
+/54321/drone001/attrs,TS2,1647874760.984973
+/54321/drone001/attrs,TS2,1647874760.987288
+/54321/drone001/attrs,TS2,1647874760.989637
+/54321/drone001/attrs,TS2,1647874760.991972
+/54321/drone001/attrs,TS2,1647874760.994331
+/54321/drone001/attrs,TS2,1647874760.996670
+/54321/drone001/attrs,TS2,1647874760.999015
+/54321/drone001/attrs,TS2,1647874761.1339
+/54321/drone001/attrs,TS2,1647874761.3638
+/54321/drone001/attrs,TS2,1647874761.5896
+/54321/drone001/attrs,TS2,1647874761.8125
+/54321/drone001/attrs,TS2,1647874761.10551
+/54321/drone001/attrs,TS2,1647874761.12939
+/54321/drone001/attrs,TS2,1647874761.15703
+/54321/drone001/attrs,TS2,1647874761.18057
+/54321/drone001/attrs,TS2,1647874761.20279
+/54321/drone001/attrs,TS2,1647874761.22769
+/54321/drone001/attrs,TS2,1647874761.24846
+/54321/drone001/attrs,TS2,1647874761.27361
+/54321/drone001/attrs,TS2,1647874761.29695
+/54321/drone001/attrs,TS2,1647874761.31948
+/54321/drone001/attrs,TS2,1647874761.34180
+/54321/drone001/attrs,TS2,1647874761.36633
+/54321/drone001/attrs,TS2,1647874761.38980
+/54321/drone001/attrs,TS2,1647874761.41261
+/54321/drone001/attrs,TS2,1647874761.43534
+/54321/drone001/attrs,TS2,1647874761.45918
+/54321/drone001/attrs,TS2,1647874761.48248
+/54321/drone001/attrs,TS2,1647874761.50615
+/54321/drone001/attrs,TS2,1647874761.53013
+/54321/drone001/attrs,TS2,1647874761.55352
+/54321/drone001/attrs,TS2,1647874761.57682
+/54321/drone001/attrs,TS2,1647874761.60039
+/54321/drone001/attrs,TS2,1647874761.62299
+/54321/drone001/attrs,TS2,1647874761.64573
+/54321/drone001/attrs,TS2,1647874761.66929
+/54321/drone001/attrs,TS2,1647874761.69188
+/54321/drone001/attrs,TS2,1647874761.71435
+/54321/drone001/attrs,TS2,1647874761.73841
+/54321/drone001/attrs,TS2,1647874761.76135
+/54321/drone001/attrs,TS2,1647874761.78486
+/54321/drone001/attrs,TS2,1647874761.80708
+/54321/drone001/attrs,TS2,1647874761.82998
+/54321/drone001/attrs,TS2,1647874761.85360
+/54321/drone001/attrs,TS2,1647874761.87679
+/54321/drone001/attrs,TS2,1647874761.90046
+/54321/drone001/attrs,TS2,1647874761.92365
+/54321/drone001/attrs,TS2,1647874761.94696
+/54321/drone001/attrs,TS2,1647874761.97132
+/54321/drone001/attrs,TS2,1647874761.99442
+/54321/drone001/attrs,TS2,1647874761.101853
+/54321/drone001/attrs,TS2,1647874761.104100
+/54321/drone001/attrs,TS2,1647874761.106444
+/54321/drone001/attrs,TS2,1647874761.108988
+/54321/drone001/attrs,TS2,1647874761.111273
+/54321/drone001/attrs,TS2,1647874761.113660
+/54321/drone001/attrs,TS2,1647874761.115976
+/54321/drone001/attrs,TS2,1647874761.118350
+/54321/drone001/attrs,TS2,1647874761.120698
+/54321/drone001/attrs,TS2,1647874761.123058
+/54321/drone001/attrs,TS2,1647874761.125374
+/54321/drone001/attrs,TS2,1647874761.127690
+/54321/drone001/attrs,TS2,1647874761.130107
+/54321/drone001/attrs,TS2,1647874761.132381
+/54321/drone001/attrs,TS2,1647874761.134797
+/54321/drone001/attrs,TS2,1647874761.137135
+/54321/drone001/attrs,TS2,1647874761.139479
+/54321/drone001/attrs,TS2,1647874761.141720
+/54321/drone001/attrs,TS2,1647874761.144023
+/54321/drone001/attrs,TS2,1647874761.146394
+/54321/drone001/attrs,TS2,1647874761.148783
+/54321/drone001/attrs,TS2,1647874761.151148
+/54321/drone001/attrs,TS2,1647874761.153513
+/54321/drone001/attrs,TS2,1647874761.155877
+/54321/drone001/attrs,TS2,1647874761.158161
+/54321/drone001/attrs,TS2,1647874761.160763
+/54321/drone001/attrs,TS2,1647874761.163573
+/54321/drone001/attrs,TS2,1647874761.165171
+/54321/drone001/attrs,TS2,1647874761.167509
+/54321/drone001/attrs,TS2,1647874761.170034
+/54321/drone001/attrs,TS2,1647874761.172384
+/54321/drone001/attrs,TS2,1647874761.174704
+/54321/drone001/attrs,TS2,1647874761.177077
+/54321/drone001/attrs,TS2,1647874761.179431
+/54321/drone001/attrs,TS2,1647874761.181758
+/54321/drone001/attrs,TS2,1647874761.184099
+/54321/drone001/attrs,TS2,1647874761.186477
+/54321/drone001/attrs,TS2,1647874761.188701
+/54321/drone001/attrs,TS2,1647874761.191039
+/54321/drone001/attrs,TS2,1647874761.193495
+/54321/drone001/attrs,TS2,1647874761.195769
+/54321/drone001/attrs,TS2,1647874761.198161
+/54321/drone001/attrs,TS2,1647874761.200522
+/54321/drone001/attrs,TS2,1647874761.202868
+/54321/drone001/attrs,TS2,1647874761.205028
+/54321/drone001/attrs,TS2,1647874761.207403
+/54321/drone001/attrs,TS2,1647874761.209917
+/54321/drone001/attrs,TS2,1647874761.218926
+/54321/drone001/attrs,TS2,1647874761.221348
+/54321/drone001/attrs,TS2,1647874761.223668
+/54321/drone001/attrs,TS2,1647874761.226028
+/54321/drone001/attrs,TS2,1647874761.228964
+/54321/drone001/attrs,TS2,1647874761.230874
+/54321/drone001/attrs,TS2,1647874761.233175
+/54321/drone001/attrs,TS2,1647874761.235537
+/54321/drone001/attrs,TS2,1647874761.237920
+/54321/drone001/attrs,TS2,1647874761.240258
+/54321/drone001/attrs,TS2,1647874761.242621
+/54321/drone001/attrs,TS2,1647871647874761: Client tester-pub closed its connection.
+1647874771: mosquitto version 2.0.14 terminating
+4761.244949
+/54321/drone001/attrs,TS2,1647874761.247274
+/54321/drone001/attrs,TS2,1647874761.249650
+/54321/drone001/attrs,TS2,1647874761.251938
+/54321/drone001/attrs,TS2,1647874761.254242
+/54321/drone001/attrs,TS2,1647874761.256536
+/54321/drone001/attrs,TS2,1647874761.258905
+/54321/drone001/attrs,TS2,1647874761.261268
+/54321/drone001/attrs,TS2,1647874761.263629
+/54321/drone001/attrs,TS2,1647874761.265895
+/54321/drone001/attrs,TS2,1647874761.268213
+/54321/drone001/attrs,TS2,1647874761.270653
+/54321/drone001/attrs,TS2,1647874761.273041
+/54321/drone001/attrs,TS2,1647874761.275288
+/54321/drone001/attrs,TS2,1647874761.277548
+/54321/drone001/attrs,TS2,1647874761.279954
+/54321/drone001/attrs,TS2,1647874761.282322
+/54321/drone001/attrs,TS2,1647874761.284626
+/54321/drone001/attrs,TS2,1647874761.286964
+/54321/drone001/attrs,TS2,1647874761.289305
+/54321/drone001/attrs,TS2,1647874761.291632
+/54321/drone001/attrs,TS2,1647874761.294029
+/54321/drone001/attrs,TS2,1647874761.296203
+/54321/drone001/attrs,TS2,1647874761.298684
+/54321/drone001/attrs,TS2,1647874761.301044
+/54321/drone001/attrs,TS2,1647874761.303382
+/54321/drone001/attrs,TS2,1647874761.305730
+/54321/drone001/attrs,TS2,1647874761.307869
+/54321/drone001/attrs,TS2,1647874761.310235
+/54321/drone001/attrs,TS2,1647874761.312702
+/54321/drone001/attrs,TS2,1647874761.315056
+/54321/drone001/attrs,TS2,1647874761.317412
+/54321/drone001/attrs,TS2,1647874761.319774
+/54321/drone001/attrs,TS2,1647874761.322093
+/54321/drone001/attrs,TS2,1647874761.324449
+/54321/drone001/attrs,TS2,1647874761.326818
+/54321/drone001/attrs,TS2,1647874761.329078
+/54321/drone001/attrs,TS2,1647874761.331397
+/54321/drone001/attrs,TS2,1647874761.333775
+/54321/drone001/attrs,TS2,1647874761.336287
+/54321/drone001/attrs,TS2,1647874761.338685
+/54321/drone001/attrs,TS2,1647874761.341133
+/54321/drone001/attrs,TS2,1647874761.343432
+/54321/drone001/attrs,TS2,1647874761.345753
+/54321/drone001/attrs,TS2,1647874761.348034
+/54321/drone001/attrs,TS2,1647874761.350366
+/54321/drone001/attrs,TS2,1647874761.352656
+/54321/drone001/attrs,TS2,1647874761.355243
+/54321/drone001/attrs,TS2,1647874761.357615
+/54321/drone001/attrs,TS2,1647874761.359732
+/54321/drone001/attrs,TS2,1647874761.362179
+/54321/drone001/attrs,TS2,1647874761.364690
+/54321/drone001/attrs,TS2,1647874761.367143
+/54321/drone001/attrs,TS2,1647874761.369342
+/54321/drone001/attrs,TS2,1647874761.371719
+/54321/drone001/attrs,TS2,1647874761.376498
+/54321/drone001/attrs,TS2,1647874761.377168
+/54321/drone001/attrs,TS2,1647874761.378175
+/54321/drone001/attrs,TS2,1647874761.380853
+/54321/drone001/attrs,TS2,1647874761.383260
+/54321/drone001/attrs,TS2,1647874761.385660
+/54321/drone001/attrs,TS2,1647874761.387957
+/54321/drone001/attrs,TS2,1647874761.390255
+/54321/drone001/attrs,TS2,1647874761.392522
+/54321/drone001/attrs,TS2,1647874761.394878
+/54321/drone001/attrs,TS2,1647874761.397196
+/54321/drone001/attrs,TS2,1647874761.399394
+/54321/drone001/attrs,TS2,1647874761.401665
+/54321/drone001/attrs,TS2,1647874761.404140
+/54321/drone001/attrs,TS2,1647874761.406365
+/54321/drone001/attrs,TS2,1647874761.408648
+/54321/drone001/attrs,TS2,1647874761.411022
+/54321/drone001/attrs,TS2,1647874761.413284
+/54321/drone001/attrs,TS2,1647874761.415667
+/54321/drone001/attrs,TS2,1647874761.418019
+/54321/drone001/attrs,TS2,1647874761.420283
+/54321/drone001/attrs,TS2,1647874761.422595
+/54321/drone001/attrs,TS2,1647874761.424947
+/54321/drone001/attrs,TS2,1647874761.427286
+/54321/drone001/attrs,TS2,1647874761.429592
+/54321/drone001/attrs,TS2,1647874761.431824
+/54321/drone001/attrs,TS2,1647874761.434161
+/54321/drone001/attrs,TS2,1647874761.436495
+/54321/drone001/attrs,TS2,1647874761.438737
+/54321/drone001/attrs,TS2,1647874761.440928
+/54321/drone001/attrs,TS2,1647874761.443160
