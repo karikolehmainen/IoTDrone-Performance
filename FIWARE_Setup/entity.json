@@ -1,0 +1,25 @@
+{
+"id": "Drone-001",
+  "type": "Drone",
+  "latitude": {
+    "value": 0.0,
+    "type": "Float"
+  },
+  "longitude": {
+    "value": 0.0,
+    "type": "Float"
+  },
+  "altitude": {
+    "value": 0.0,
+    "type": "Float"
+  },
+  "heading": {
+    "value": 0.0,
+    "type": "Float"
+  },
+  "velocity": {
+    "value": 0.0,
+    "type": "Float"
+  }
+}
+

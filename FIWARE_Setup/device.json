@@ -1,0 +1,18 @@
+{
+"devices": [{
+     "device_id":   "drone001",
+     "entity_name": "urn:ngsi-ld:Drone:001",
+     "entity_type": "Drone",
+     "timezone":    "Europe/Helsinki",
+	"attributes": [
+		{ "object_id": "lat", "name": "latitude", "type": "Number" },
+		{ "object_id": "lon", "name": "longitude", "type": "Number" },
+		{ "object_id": "z", "name": "altitude", "type": "Number" },
+		{ "object_id": "h", "name": "heading", "type": "Number" },
+		{ "object_id": "v", "name": "velocity", "type": "Number" }
+	],
+	"static_attributes": [
+		{ "name":"refFarm", "type": "Relationship", "value": "urn:ngsi-ld:Farm:001"}
+	]
+   }]
+}
