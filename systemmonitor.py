@@ -28,15 +28,15 @@ def handler(signum, frame):
 	while (count < cpus):
 		count = count +1
 		header = header+"cpu"+str(count)+","
-	header = header + "total,available,percent,used,free,active,inactive,wired,"
+	header = header + "total,available,percent,used,free,active,inactive,"
 	header = header + "read_count,write_count,read_bytes,write_bytes,read_time,write_time"
 	for stat in stat_net[0]:
  		header = header+stat+"_bytes_sent,"+stat+"_bytes_recv,"+stat+"_packets_sent,"+stat+"_packets_recv,"
 
 	print(header)
 	cntr = 0
-	line = str("stat_time")
 	while (cntr < samples):
+		line = str(stat_time[cntr])+","
 		stat_smpl = stat_cpu[cntr]
 		count = 0
 		while (count < cpus):
@@ -44,7 +44,7 @@ def handler(signum, frame):
 			count = count +1
 		# MEM STATS
 		stat_smpl = stat_mem[cntr]
-		line = line + str(stat_smpl.total)+","+str(stat_smpl.available)+","+str(stat_smpl.percent)+","+str(stat_smpl.used)+","+str(stat_smpl.free)+","+str(stat_smpl.active)+","+str(stat_smpl.inactive)+","+str(stat_smpl.wired)+","
+		line = line + str(stat_smpl.total)+","+str(stat_smpl.available)+","+str(stat_smpl.percent)+","+str(stat_smpl.used)+","+str(stat_smpl.free)+","+str(stat_smpl.active)+","+str(stat_smpl.inactive)+","
 
 		# DSK STAT
 		stat_smpl = stat_dsk[cntr]
