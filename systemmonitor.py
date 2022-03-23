@@ -10,46 +10,54 @@ stat_net = []
 
 def handler(signum, frame):
 	# CPU STATS
-	cpus = len(stat_cpu[0])
+	header = "ts,"
+	# Determine common number of samples
+	samples = len(stat_time)
+	if (samples > len(stat_cpu)):
+		samples = len(stat_cpu)
+	if (samples > len(stat_mem)):
+		samples = len(stat_mem)
+	if (samples > len(stat_dsk)):
+		samples = len(stat_dsk)
+	if (samples > len(stat_net)):
+		samples = len(stat_net)
+
+	# Make headers
 	count = 0
-	header = ""
+	cpus = len(stat_cpu[0])
 	while (count < cpus):
 		count = count +1
 		header = header+"cpu"+str(count)+","
+	header = header + "total,available,percent,used,free,active,inactive,wired,"
+	header = header + "read_count,write_count,read_bytes,write_bytes,read_time,write_time"
+	for stat in stat_net[0]:
+ 		header = header+stat+"_bytes_sent,"+stat+"_bytes_recv,"+stat+"_packets_sent,"+stat+"_packets_recv,"
+
 	print(header)
-	count = 0
-	line = ""
-	for stat_smpl in stat_cpu:
+	cntr = 0
+	line = str("stat_time")
+	while (cntr < samples):
+		stat_smpl = stat_cpu[cntr]
+		count = 0
 		while (count < cpus):
 			line = line+str(stat_smpl[count])+","
 			count = count +1
-		print(line)
-		count = 0
-		line = ""
+		# MEM STATS
+		stat_smpl = stat_mem[cntr]
+		line = line + str(stat_smpl.total)+","+str(stat_smpl.available)+","+str(stat_smpl.percent)+","+str(stat_smpl.used)+","+str(stat_smpl.free)+","+str(stat_smpl.active)+","+str(stat_smpl.inactive)+","+str(stat_smpl.wired)+","
 
-	# MEM STATS
-	print("total,available,percent,used,free,active,inactive,wired")
-	for stat_smpl in stat_mem:
-		print(str(stat_smpl.total)+","+str(stat_smpl.available)+","+str(stat_smpl.percent)+","+str(stat_smpl.used)+","+str(stat_smpl.free)+","+str(stat_smpl.active)+","+str(stat_smpl.inactive)+","+str(stat_smpl.wired))
-
-	# DSK STAT
-	print("read_count,write_count,read_bytes,write_bytes,read_time,write_time")
-	for stat_smpl in stat_dsk:
-		print(str(stat_smpl.read_count)+","+str(stat_smpl.write_count)+","+str(stat_smpl.read_bytes)+","+str(stat_smpl.write_bytes)+","+str(stat_smpl.read_time)+","+str(stat_smpl.write_time))
-
-	# NET STAT
-	count = 0
-	header = ""
-	for stat_smpl in stat_net:
-		line = ""
+		# DSK STAT
+		stat_smpl = stat_dsk[cntr]
+		line = line + str(stat_smpl.read_count)+","+str(stat_smpl.write_count)+","+str(stat_smpl.read_bytes)+","+str(stat_smpl.write_bytes)+","+str(stat_smpl.read_time)+","+str(stat_smpl.write_time)+","
+		
+		# NET STAT
+		stat_smpl = stat_net[cntr]
 		for stat in stat_smpl:
-			if (count == 0):
-				header = header+stat+"_bytes_sent,"+stat+"_bytes_recv,"+stat+"_packets_sent,"+stat+"_packets_recv,"
 			line = line + str(stat_smpl[stat].bytes_sent)+","+str(stat_smpl[stat].bytes_recv)+","+str(stat_smpl[stat].packets_sent)+","+str(stat_smpl[stat].packets_recv)+","
-		if (count == 0):
-			print(header)
+
 		print(line)
-		count = 1
+		line = ""
+		cntr = cntr+1
 
 	exit(1)
 
