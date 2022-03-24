@@ -22,6 +22,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 		data = s.recv(1024)
 		ts3 = time.time()
 		ts2 = float(data)
+		#print(str(ts1)+","+str(ts2)+","+str(ts3)+","+str((ts3-ts1)*1000)+","+str(((ts2-ts1)*1000)-(((ts3-ts1)*1000)/2)))
 		latency = latency + (ts3-ts1)*1000
 		skew = skew + ((ts2-ts1)*1000)-(((ts3-ts1)*1000)/2)
 
