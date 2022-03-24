@@ -11,7 +11,7 @@ count = 0
 tests = 100
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-	s.connect((HOST, PORT))
+	s.connect((HOST, int(PORT)))
 	ts1 = 0.0
 	ts2 = 0.0
 	ts3 = 0.0

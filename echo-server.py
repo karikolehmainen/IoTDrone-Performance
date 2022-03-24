@@ -1,13 +1,14 @@
 import socket
 import time
+import sys
 
-HOST = "0.0.0.0"  # Standard loopback interface address (localhost)
-PORT = 1883  # Port to listen on (non-privileged ports are > 1023)
+HOST = sys.argv[1]  # Standard loopback interface address (localhost)
+PORT = sys.argv[2]  # Port to listen on (non-privileged ports are > 1023)
 
 count = 0
 latency = 0.0
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-    s.bind((HOST, PORT))
+    s.bind((HOST, int(PORT)))
     s.listen()
     conn, addr = s.accept()
     with conn:
