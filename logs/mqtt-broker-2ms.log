@@ -1,637 +1,14 @@
-1647874652: Warning: Unable to drop privileges to 'mosquitto' because this user does not exist. Trying 'nobody' instead.
-1647874652: mosquitto version 2.0.14 starting
-1647874652: Config loaded from /etc/mosquitto/mosquitto.conf.
-1647874652: Opening ipv4 listen socket on port 1883.
-1647874652: Opening ipv6 listen socket on port 1883.
-1647874652: mosquitto version 2.0.14 running
-1647874653: New connection from 130.188.160.11:45278 on port 1883.
-1647874653: New connection from 130.188.160.11:45280 on port 1883.
-1647874653: New connection from 130.188.160.11:45282 on port 1883.
-1647874653: New client connected from 130.188.160.11:45278 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874653: New connection from 130.188.160.11:45284 on port 1883.
-1647874653: New connection from 130.188.160.11:45288 on port 1883.
-1647874653: New connection from 130.188.160.11:45290 on port 1883.
-1647874653: New connection from 130.188.160.11:45292 on port 1883.
-1647874653: Client iotaul_d0805f53 already connected, closing old connection.
-1647874653: New client connected from 130.188.160.11:45280 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874653: Client iotaul_d0805f53 already connected, closing old connection.
-1647874653: New client connected from 130.188.160.11:45282 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874653: Client iotaul_d0805f53 already connected, closing old connection.
-1647874653: New client connected from 130.188.160.11:45284 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874653: Client iotaul_d0805f53 already connected, closing old connection.
-1647874653: New client connected from 130.188.160.11:45288 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874653: Client iotaul_d0805f53 already connected, closing old connection.
-1647874653: New client connected from 130.188.160.11:45290 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874653: Client iotaul_d0805f53 already connected, closing old connection.
-1647874653: New client connected from 130.188.160.11:45292 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874654: New connection from 130.188.160.11:45294 on port 1883.
-1647874654: New connection from 130.188.160.11:45296 on port 1883.
-1647874654: New connection from 130.188.160.11:45298 on port 1883.
-1647874654: New connection from 130.188.160.11:45300 on port 1883.
-1647874654: New connection from 130.188.160.11:45302 on port 1883.
-1647874654: Client iotaul_d0805f53 already connected, closing old connection.
-1647874654: New client connected from 130.188.160.11:45294 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874654: Client iotaul_d0805f53 already connected, closing old connection.
-1647874654: New client connected from 130.188.160.11:45296 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874654: Client iotaul_d0805f53 already connected, closing old connection.
-1647874654: New client connected from 130.188.160.11:45298 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874654: Client iotaul_d0805f53 already connected, closing old connection.
-1647874654: New client connected from 130.188.160.11:45300 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874654: Client iotaul_d0805f53 already connected, closing old connection.
-1647874654: New client connected from 130.188.160.11:45302 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874654: New connection from 130.188.160.11:45304 on port 1883.
-1647874654: Client iotaul_d0805f53 already connected, closing old connection.
-1647874654: New client connected from 130.188.160.11:45304 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874655: New connection from 130.188.160.11:45306 on port 1883.
-1647874655: Client iotaul_d0805f53 already connected, closing old connection.
-1647874655: New client connected from 130.188.160.11:45306 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874655: New connection from 130.188.160.11:45308 on port 1883.
-1647874655: Client iotaul_d0805f53 already connected, closing old connection.
-1647874655: New client connected from 130.188.160.11:45308 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874655: New connection from 130.188.160.11:45310 on port 1883.
-1647874655: Client iotaul_d0805f53 already connected, closing old connection.
-1647874655: New client connected from 130.188.160.11:45310 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874655: New connection from 130.188.160.11:45312 on port 1883.
-1647874655: New connection from 130.188.160.11:45314 on port 1883.
-1647874655: New connection from 130.188.160.11:45316 on port 1883.
-1647874655: Client iotaul_d0805f53 already connected, closing old connection.
-1647874655: New client connected from 130.188.160.11:45312 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874655: Client iotaul_d0805f53 already connected, closing old connection.
-1647874655: New client connected from 130.188.160.11:45314 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874655: Client iotaul_d0805f53 already connected, closing old connection.
-1647874655: New client connected from 130.188.160.11:45316 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874656: New connection from 130.188.160.11:45318 on port 1883.
-1647874656: Client iotaul_d0805f53 already connected, closing old connection.
-1647874656: New client connected from 130.188.160.11:45318 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874656: New connection from 130.188.160.11:45322 on port 1883.
-1647874656: Client iotaul_d0805f53 already connected, closing old connection.
-1647874656: New client connected from 130.188.160.11:45322 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874656: New connection from 130.188.160.11:45324 on port 1883.
-1647874656: Client iotaul_d0805f53 already connected, closing old connection.
-1647874656: New client connected from 130.188.160.11:45324 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874656: New connection from 130.188.160.11:45326 on port 1883.
-1647874656: New connection from 130.188.160.11:45328 on port 1883.
-1647874656: New connection from 130.188.160.11:45330 on port 1883.
-1647874656: Client iotaul_d0805f53 already connected, closing old connection.
-1647874656: New client connected from 130.188.160.11:45326 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874656: Client iotaul_d0805f53 already connected, closing old connection.
-1647874656: New client connected from 130.188.160.11:45328 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874656: Client iotaul_d0805f53 already connected, closing old connection.
-1647874656: New client connected from 130.188.160.11:45330 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874657: New connection from 130.188.160.11:45332 on port 1883.
-1647874657: Client iotaul_d0805f53 already connected, closing old connection.
-1647874657: New client connected from 130.188.160.11:45332 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874657: New connection from 130.188.160.11:45334 on port 1883.
-1647874657: Client iotaul_d0805f53 already connected, closing old connection.
-1647874657: New client connected from 130.188.160.11:45334 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874657: New connection from 130.188.160.11:45336 on port 1883.
-1647874657: Client iotaul_d0805f53 already connected, closing old connection.
-1647874657: New client connected from 130.188.160.11:45336 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874657: New connection from 130.188.160.11:45338 on port 1883.
-1647874657: New connection from 130.188.160.11:45340 on port 1883.
-1647874657: New connection from 130.188.160.11:45342 on port 1883.
-1647874657: Client iotaul_d0805f53 already connected, closing old connection.
-1647874657: New client connected from 130.188.160.11:45338 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874657: Client iotaul_d0805f53 already connected, closing old connection.
-1647874657: New client connected from 130.188.160.11:45340 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874657: Client iotaul_d0805f53 already connected, closing old connection.
-1647874657: New client connected from 130.188.160.11:45342 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874658: New connection from 130.188.160.11:45344 on port 1883.
-1647874658: Client iotaul_d0805f53 already connected, closing old connection.
-1647874658: New client connected from 130.188.160.11:45344 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874658: New connection from 130.188.160.11:45346 on port 1883.
-1647874658: Client iotaul_d0805f53 already connected, closing old connection.
-1647874658: New client connected from 130.188.160.11:45346 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874658: New connection from 130.188.160.11:45348 on port 1883.
-1647874658: Client iotaul_d0805f53 already connected, closing old connection.
-1647874658: New client connected from 130.188.160.11:45348 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874658: New connection from 130.188.160.11:45350 on port 1883.
-1647874658: Client iotaul_d0805f53 already connected, closing old connection.
-1647874658: New client connected from 130.188.160.11:45350 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874658: New connection from 130.188.160.11:45352 on port 1883.
-1647874658: Client iotaul_d0805f53 already connected, closing old connection.
-1647874658: New client connected from 130.188.160.11:45352 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874658: New connection from 130.188.160.11:45354 on port 1883.
-1647874658: Client iotaul_d0805f53 already connected, closing old connection.
-1647874658: New client connected from 130.188.160.11:45354 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874659: New connection from 130.188.160.11:45356 on port 1883.
-1647874659: Client iotaul_d0805f53 already connected, closing old connection.
-1647874659: New client connected from 130.188.160.11:45356 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874659: New connection from 130.188.160.11:45358 on port 1883.
-1647874659: Client iotaul_d0805f53 already connected, closing old connection.
-1647874659: New client connected from 130.188.160.11:45358 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874659: New connection from 130.188.160.11:45360 on port 1883.
-1647874659: Client iotaul_d0805f53 already connected, closing old connection.
-1647874659: New client connected from 130.188.160.11:45360 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874659: New connection from 130.188.160.11:45362 on port 1883.
-1647874659: Client iotaul_d0805f53 already connected, closing old connection.
-1647874659: New client connected from 130.188.160.11:45362 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874659: New connection from 130.188.160.11:45366 on port 1883.
-1647874659: Client iotaul_d0805f53 already connected, closing old connection.
-1647874659: New client connected from 130.188.160.11:45366 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874659: New connection from 130.188.160.11:45368 on port 1883.
-1647874659: Client iotaul_d0805f53 already connected, closing old connection.
-1647874659: New client connected from 130.188.160.11:45368 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874660: New connection from 130.188.160.11:45370 on port 1883.
-1647874660: Client iotaul_d0805f53 already connected, closing old connection.
-1647874660: New client connected from 130.188.160.11:45370 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874660: New connection from 130.188.160.11:45372 on port 1883.
-1647874660: Client iotaul_d0805f53 already connected, closing old connection.
-1647874660: New client connected from 130.188.160.11:45372 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874660: New connection from 130.188.160.11:45374 on port 1883.
-1647874660: Client iotaul_d0805f53 already connected, closing old connection.
-1647874660: New client connected from 130.188.160.11:45374 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874660: New connection from 130.188.160.11:45376 on port 1883.
-1647874660: Client iotaul_d0805f53 already connected, closing old connection.
-1647874660: New client connected from 130.188.160.11:45376 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874660: New connection from 130.188.160.11:45378 on port 1883.
-1647874660: Client iotaul_d0805f53 already connected, closing old connection.
-1647874660: New client connected from 130.188.160.11:45378 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874660: New connection from 130.188.160.11:45380 on port 1883.
-1647874660: Client iotaul_d0805f53 already connected, closing old connection.
-1647874660: New client connected from 130.188.160.11:45380 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874661: New connection from 130.188.160.11:45382 on port 1883.
-1647874661: Client iotaul_d0805f53 already connected, closing old connection.
-1647874661: New client connected from 130.188.160.11:45382 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874661: New connection from 130.188.160.11:45384 on port 1883.
-1647874661: Client iotaul_d0805f53 already connected, closing old connection.
-1647874661: New client connected from 130.188.160.11:45384 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874661: New connection from 130.188.160.11:45386 on port 1883.
-1647874661: Client iotaul_d0805f53 already connected, closing old connection.
-1647874661: New client connected from 130.188.160.11:45386 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874661: New connection from 130.188.160.11:45388 on port 1883.
-1647874661: Client iotaul_d0805f53 already connected, closing old connection.
-1647874661: New client connected from 130.188.160.11:45388 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874661: New connection from 130.188.160.11:45390 on port 1883.
-1647874661: Client iotaul_d0805f53 already connected, closing old connection.
-1647874661: New client connected from 130.188.160.11:45390 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874661: New connection from 130.188.160.11:45392 on port 1883.
-1647874661: Client iotaul_d0805f53 already connected, closing old connection.
-1647874661: New client connected from 130.188.160.11:45392 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874662: New connection from 130.188.160.11:45394 on port 1883.
-1647874662: Client iotaul_d0805f53 already connected, closing old connection.
-1647874662: New client connected from 130.188.160.11:45394 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874662: New connection from 130.188.160.11:45396 on port 1883.
-1647874662: Client iotaul_d0805f53 already connected, closing old connection.
-1647874662: New client connected from 130.188.160.11:45396 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874662: New connection from 130.188.160.11:45400 on port 1883.
-1647874662: Client iotaul_d0805f53 already connected, closing old connection.
-1647874662: New client connected from 130.188.160.11:45400 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874662: New connection from 130.188.160.11:45402 on port 1883.
-1647874662: Client iotaul_d0805f53 already connected, closing old connection.
-1647874662: New client connected from 130.188.160.11:45402 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874662: New connection from 130.188.160.11:45404 on port 1883.
-1647874662: Client iotaul_d0805f53 already connected, closing old connection.
-1647874662: New client connected from 130.188.160.11:45404 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874662: New connection from 130.188.160.11:45408 on port 1883.
-1647874662: Client iotaul_d0805f53 already connected, closing old connection.
-1647874662: New client connected from 130.188.160.11:45408 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874663: New connection from 130.188.160.11:45410 on port 1883.
-1647874663: Client iotaul_d0805f53 already connected, closing old connection.
-1647874663: New client connected from 130.188.160.11:45410 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874663: New connection from 130.188.160.11:45412 on port 1883.
-1647874663: Client iotaul_d0805f53 already connected, closing old connection.
-1647874663: New client connected from 130.188.160.11:45412 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874663: New connection from 130.188.160.11:45414 on port 1883.
-1647874663: Client iotaul_d0805f53 already connected, closing old connection.
-1647874663: New client connected from 130.188.160.11:45414 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874663: New connection from 130.188.160.11:45416 on port 1883.
-1647874663: Client iotaul_d0805f53 already connected, closing old connection.
-1647874663: New client connected from 130.188.160.11:45416 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874663: New connection from 130.188.160.11:45418 on port 1883.
-1647874663: Client iotaul_d0805f53 already connected, closing old connection.
-1647874663: New client connected from 130.188.160.11:45418 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874663: New connection from 130.188.160.11:45420 on port 1883.
-1647874663: Client iotaul_d0805f53 already connected, closing old connection.
-1647874663: New client connected from 130.188.160.11:45420 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874664: New connection from 130.188.160.11:45422 on port 1883.
-1647874664: New connection from 130.188.160.11:45424 on port 1883.
-1647874664: Client iotaul_d0805f53 already connected, closing old connection.
-1647874664: New client connected from 130.188.160.11:45422 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874664: New connection from 130.188.160.11:45426 on port 1883.
-1647874664: Client iotaul_d0805f53 already connected, closing old connection.
-1647874664: New client connected from 130.188.160.11:45424 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874664: Client iotaul_d0805f53 already connected, closing old connection.
-1647874664: New client connected from 130.188.160.11:45426 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874664: New connection from 130.188.160.11:45428 on port 1883.
-1647874664: Client iotaul_d0805f53 already connected, closing old connection.
-1647874664: New client connected from 130.188.160.11:45428 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874664: New connection from 130.188.160.11:45430 on port 1883.
-1647874664: Client iotaul_d0805f53 already connected, closing old connection.
-1647874664: New client connected from 130.188.160.11:45430 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874664: New connection from 130.188.160.11:45432 on port 1883.
-1647874664: Client iotaul_d0805f53 already connected, closing old connection.
-1647874664: New client connected from 130.188.160.11:45432 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874665: New connection from 130.188.160.11:45434 on port 1883.
-1647874665: Client iotaul_d0805f53 already connected, closing old connection.
-1647874665: New client connected from 130.188.160.11:45434 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874665: New connection from 130.188.160.11:45436 on port 1883.
-1647874665: Client iotaul_d0805f53 already connected, closing old connection.
-1647874665: New client connected from 130.188.160.11:45436 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874665: New connection from 130.188.160.11:45438 on port 1883.
-1647874665: Client iotaul_d0805f53 already connected, closing old connection.
-1647874665: New client connected from 130.188.160.11:45438 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874665: New connection from 130.188.160.11:45440 on port 1883.
-1647874665: Client iotaul_d0805f53 already connected, closing old connection.
-1647874665: New client connected from 130.188.160.11:45440 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874665: New connection from 130.188.160.11:45442 on port 1883.
-1647874665: New connection from 130.188.160.11:45444 on port 1883.
-1647874665: Client iotaul_d0805f53 already connected, closing old connection.
-1647874665: New client connected from 130.188.160.11:45442 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874665: Client iotaul_d0805f53 already connected, closing old connection.
-1647874665: New client connected from 130.188.160.11:45444 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874666: New connection from 130.188.160.11:45446 on port 1883.
-1647874666: Client iotaul_d0805f53 already connected, closing old connection.
-1647874666: New client connected from 130.188.160.11:45446 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874666: New connection from 130.188.160.11:45448 on port 1883.
-1647874666: Client iotaul_d0805f53 already connected, closing old connection.
-1647874666: New client connected from 130.188.160.11:45448 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874666: New connection from 130.188.160.11:45450 on port 1883.
-1647874666: New connection from 130.188.160.11:45452 on port 1883.
-1647874666: Client iotaul_d0805f53 already connected, closing old connection.
-1647874666: New client connected from 130.188.160.11:45450 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874666: Client iotaul_d0805f53 already connected, closing old connection.
-1647874666: New client connected from 130.188.160.11:45452 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874666: New connection from 130.188.160.11:45454 on port 1883.
-1647874666: Client iotaul_d0805f53 already connected, closing old connection.
-1647874666: New client connected from 130.188.160.11:45454 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874666: New connection from 130.188.160.11:45456 on port 1883.
-1647874666: Client iotaul_d0805f53 already connected, closing old connection.
-1647874666: New client connected from 130.188.160.11:45456 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874667: New connection from 130.188.160.11:45458 on port 1883.
-1647874667: Client iotaul_d0805f53 already connected, closing old connection.
-1647874667: New client connected from 130.188.160.11:45458 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874667: New connection from 130.188.160.11:45460 on port 1883.
-1647874667: Client iotaul_d0805f53 already connected, closing old connection.
-1647874667: New client connected from 130.188.160.11:45460 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874667: New connection from 130.188.160.11:45462 on port 1883.
-1647874667: Client iotaul_d0805f53 already connected, closing old connection.
-1647874667: New client connected from 130.188.160.11:45462 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874667: New connection from 130.188.160.11:45464 on port 1883.
-1647874667: Client iotaul_d0805f53 already connected, closing old connection.
-1647874667: New client connected from 130.188.160.11:45464 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874667: New connection from 130.188.160.11:45466 on port 1883.
-1647874667: Client iotaul_d0805f53 already connected, closing old connection.
-1647874667: New client connected from 130.188.160.11:45466 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874667: New connection from 130.188.160.11:45470 on port 1883.
-1647874667: Client iotaul_d0805f53 already connected, closing old connection.
-1647874667: New client connected from 130.188.160.11:45470 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874668: New connection from 130.188.160.11:45472 on port 1883.
-1647874668: Client iotaul_d0805f53 already connected, closing old connection.
-1647874668: New client connected from 130.188.160.11:45472 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874668: New connection from 130.188.160.11:45474 on port 1883.
-1647874668: Client iotaul_d0805f53 already connected, closing old connection.
-1647874668: New client connected from 130.188.160.11:45474 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874668: New connection from 130.188.160.11:45476 on port 1883.
-1647874668: Client iotaul_d0805f53 already connected, closing old connection.
-1647874668: New client connected from 130.188.160.11:45476 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874668: New connection from 130.188.160.11:45478 on port 1883.
-1647874668: New connection from 130.188.160.11:45480 on port 1883.
-1647874668: Client iotaul_d0805f53 already connected, closing old connection.
-1647874668: New client connected from 130.188.160.11:45478 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874668: Client iotaul_d0805f53 already connected, closing old connection.
-1647874668: New client connected from 130.188.160.11:45480 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874668: New connection from 130.188.160.11:45482 on port 1883.
-1647874668: Client iotaul_d0805f53 already connected, closing old connection.
-1647874668: New client connected from 130.188.160.11:45482 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874669: New connection from 130.188.160.11:45484 on port 1883.
-1647874669: Client iotaul_d0805f53 already connected, closing old connection.
-1647874669: New client connected from 130.188.160.11:45484 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874669: New connection from 130.188.160.11:45486 on port 1883.
-1647874669: Client iotaul_d0805f53 already connected, closing old connection.
-1647874669: New client connected from 130.188.160.11:45486 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874669: New connection from 130.188.160.11:45490 on port 1883.
-1647874669: New connection from 130.188.160.11:45492 on port 1883.
-1647874669: New connection from 130.188.160.11:45494 on port 1883.
-1647874669: Client iotaul_d0805f53 already connected, closing old connection.
-1647874669: New client connected from 130.188.160.11:45490 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874669: Client iotaul_d0805f53 already connected, closing old connection.
-1647874669: New client connected from 130.188.160.11:45492 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874669: Client iotaul_d0805f53 already connected, closing old connection.
-1647874669: New client connected from 130.188.160.11:45494 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874669: New connection from 130.188.160.11:45496 on port 1883.
-1647874669: Client iotaul_d0805f53 already connected, closing old connection.
-1647874669: New client connected from 130.188.160.11:45496 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874670: New connection from 130.188.160.11:45500 on port 1883.
-1647874670: Client iotaul_d0805f53 already connected, closing old connection.
-1647874670: New client connected from 130.188.160.11:45500 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874670: New connection from 130.188.160.11:45502 on port 1883.
-1647874670: Client iotaul_d0805f53 already connected, closing old connection.
-1647874670: New client connected from 130.188.160.11:45502 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874670: New connection from 130.188.160.11:45504 on port 1883.
-1647874670: Client iotaul_d0805f53 already connected, closing old connection.
-1647874670: New client connected from 130.188.160.11:45504 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874670: New connection from 130.188.160.11:45506 on port 1883.
-1647874670: Client iotaul_d0805f53 already connected, closing old connection.
-1647874670: New client connected from 130.188.160.11:45506 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874670: New connection from 130.188.160.11:45508 on port 1883.
-1647874670: New connection from 130.188.160.11:45510 on port 1883.
-1647874670: Client iotaul_d0805f53 already connected, closing old connection.
-1647874670: New client connected from 130.188.160.11:45508 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874670: Client iotaul_d0805f53 already connected, closing old connection.
-1647874670: New client connected from 130.188.160.11:45510 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874671: New connection from 130.188.160.11:45512 on port 1883.
-1647874671: Client iotaul_d0805f53 already connected, closing old connection.
-1647874671: New client connected from 130.188.160.11:45512 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874671: New connection from 130.188.160.11:45514 on port 1883.
-1647874671: Client iotaul_d0805f53 already connected, closing old connection.
-1647874671: New client connected from 130.188.160.11:45514 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874671: New connection from 130.188.160.11:45516 on port 1883.
-1647874671: Client iotaul_d0805f53 already connected, closing old connection.
-1647874671: New client connected from 130.188.160.11:45516 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874671: New connection from 130.188.160.11:45518 on port 1883.
-1647874671: Client iotaul_d0805f53 already connected, closing old connection.
-1647874671: New client connected from 130.188.160.11:45518 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874671: New connection from 130.188.160.11:45520 on port 1883.
-1647874671: Client iotaul_d0805f53 already connected, closing old connection.
-1647874671: New client connected from 130.188.160.11:45520 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874671: New connection from 130.188.160.11:45522 on port 1883.
-1647874671: Client iotaul_d0805f53 already connected, closing old connection.
-1647874671: New client connected from 130.188.160.11:45522 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874672: New connection from 130.188.160.11:45524 on port 1883.
-1647874672: Client iotaul_d0805f53 already connected, closing old connection.
-1647874672: New client connected from 130.188.160.11:45524 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874672: New connection from 130.188.160.11:45528 on port 1883.
-1647874672: Client iotaul_d0805f53 already connected, closing old connection.
-1647874672: New client connected from 130.188.160.11:45528 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874672: New connection from 130.188.160.11:45530 on port 1883.
-1647874672: Client iotaul_d0805f53 already connected, closing old connection.
-1647874672: New client connected from 130.188.160.11:45530 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874672: New connection from 130.188.160.11:45532 on port 1883.
-1647874672: Client iotaul_d0805f53 already connected, closing old connection.
-1647874672: New client connected from 130.188.160.11:45532 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874672: New connection from 130.188.160.11:45534 on port 1883.
-1647874672: Client iotaul_d0805f53 already connected, closing old connection.
-1647874672: New client connected from 130.188.160.11:45534 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874672: New connection from 130.188.160.11:45536 on port 1883.
-1647874672: Client iotaul_d0805f53 already connected, closing old connection.
-1647874672: New client connected from 130.188.160.11:45536 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874673: New connection from 130.188.160.11:45538 on port 1883.
-1647874673: Client iotaul_d0805f53 already connected, closing old connection.
-1647874673: New client connected from 130.188.160.11:45538 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874673: New connection from 130.188.160.11:45540 on port 1883.
-1647874673: New connection from 130.188.160.11:45542 on port 1883.
-1647874673: Client iotaul_d0805f53 already connected, closing old connection.
-1647874673: New client connected from 130.188.160.11:45540 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874673: Client iotaul_d0805f53 already connected, closing old connection.
-1647874673: New client connected from 130.188.160.11:45542 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874673: New connection from 130.188.160.11:45544 on port 1883.
-1647874673: Client iotaul_d0805f53 already connected, closing old connection.
-1647874673: New client connected from 130.188.160.11:45544 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874673: New connection from 130.188.160.11:45546 on port 1883.
-1647874673: New connection from 130.188.160.11:45548 on port 1883.
-1647874673: Client iotaul_d0805f53 already connected, closing old connection.
-1647874673: New client connected from 130.188.160.11:45546 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874673: Client iotaul_d0805f53 already connected, closing old connection.
-1647874673: New client connected from 130.188.160.11:45548 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874674: New connection from 130.188.160.11:45550 on port 1883.
-1647874674: New connection from 130.188.160.11:45552 on port 1883.
-1647874674: Client iotaul_d0805f53 already connected, closing old connection.
-1647874674: New client connected from 130.188.160.11:45550 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874674: Client iotaul_d0805f53 already connected, closing old connection.
-1647874674: New client connected from 130.188.160.11:45552 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874674: New connection from 130.188.160.11:45554 on port 1883.
-1647874674: Client iotaul_d0805f53 already connected, closing old connection.
-1647874674: New client connected from 130.188.160.11:45554 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874674: New connection from 130.188.160.11:45556 on port 1883.
-1647874674: Client iotaul_d0805f53 already connected, closing old connection.
-1647874674: New client connected from 130.188.160.11:45556 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874674: New connection from 130.188.160.11:45558 on port 1883.
-1647874674: Client iotaul_d0805f53 already connected, closing old connection.
-1647874674: New client connected from 130.188.160.11:45558 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874674: New connection from 130.188.160.11:45560 on port 1883.
-1647874674: Client iotaul_d0805f53 already connected, closing old connection.
-1647874674: New client connected from 130.188.160.11:45560 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874675: New connection from 130.188.160.11:45562 on port 1883.
-1647874675: Client iotaul_d0805f53 already connected, closing old connection.
-1647874675: New client connected from 130.188.160.11:45562 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874675: New connection from 130.188.160.11:45564 on port 1883.
-1647874675: Client iotaul_d0805f53 already connected, closing old connection.
-1647874675: New client connected from 130.188.160.11:45564 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874675: New connection from 130.188.160.11:45566 on port 1883.
-1647874675: Client iotaul_d0805f53 already connected, closing old connection.
-1647874675: New client connected from 130.188.160.11:45566 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874675: New connection from 130.188.160.11:45568 on port 1883.
-1647874675: Client iotaul_d0805f53 already connected, closing old connection.
-1647874675: New client connected from 130.188.160.11:45568 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874675: New connection from 130.188.160.11:45570 on port 1883.
-1647874675: New connection from 130.188.160.11:45572 on port 1883.
-1647874675: Client iotaul_d0805f53 already connected, closing old connection.
-1647874675: New client connected from 130.188.160.11:45570 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874675: Client iotaul_d0805f53 already connected, closing old connection.
-1647874675: New client connected from 130.188.160.11:45572 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874676: New connection from 130.188.160.11:45574 on port 1883.
-1647874676: Client iotaul_d0805f53 already connected, closing old connection.
-1647874676: New client connected from 130.188.160.11:45574 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874676: New connection from 130.188.160.11:45576 on port 1883.
-1647874676: Client iotaul_d0805f53 already connected, closing old connection.
-1647874676: New client connected from 130.188.160.11:45576 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874676: New connection from 130.188.160.11:45578 on port 1883.
-1647874676: Client iotaul_d0805f53 already connected, closing old connection.
-1647874676: New client connected from 130.188.160.11:45578 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874676: New connection from 130.188.160.11:45580 on port 1883.
-1647874676: Client iotaul_d0805f53 already connected, closing old connection.
-1647874676: New client connected from 130.188.160.11:45580 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874676: New connection from 130.188.160.11:45582 on port 1883.
-1647874676: New connection from 130.188.160.11:45584 on port 1883.
-1647874676: Client iotaul_d0805f53 already connected, closing old connection.
-1647874676: New client connected from 130.188.160.11:45582 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874676: Client iotaul_d0805f53 already connected, closing old connection.
-1647874676: New client connected from 130.188.160.11:45584 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874677: New connection from 130.188.160.11:45586 on port 1883.
-1647874677: Client iotaul_d0805f53 already connected, closing old connection.
-1647874677: New client connected from 130.188.160.11:45586 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874677: New connection from 130.188.160.11:45588 on port 1883.
-1647874677: New connection from 130.188.160.11:45590 on port 1883.
-1647874677: Client iotaul_d0805f53 already connected, closing old connection.
-1647874677: New client connected from 130.188.160.11:45588 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874677: Client iotaul_d0805f53 already connected, closing old connection.
-1647874677: New client connected from 130.188.160.11:45590 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874677: New connection from 130.188.160.11:45592 on port 1883.
-1647874677: New connection from 130.188.160.11:45594 on port 1883.
-1647874677: Client iotaul_d0805f53 already connected, closing old connection.
-1647874677: New client connected from 130.188.160.11:45592 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874677: New connection from 130.188.160.11:45596 on port 1883.
-1647874677: Client iotaul_d0805f53 already connected, closing old connection.
-1647874677: New client connected from 130.188.160.11:45594 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874677: Client iotaul_d0805f53 already connected, closing old connection.
-1647874677: New client connected from 130.188.160.11:45596 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874678: New connection from 130.188.160.11:45598 on port 1883.
-1647874678: Client iotaul_d0805f53 already connected, closing old connection.
-1647874678: New client connected from 130.188.160.11:45598 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874678: New connection from 130.188.160.11:45600 on port 1883.
-1647874678: New connection from 130.188.160.11:45602 on port 1883.
-1647874678: Client iotaul_d0805f53 already connected, closing old connection.
-1647874678: New client connected from 130.188.160.11:45600 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874678: Client iotaul_d0805f53 already connected, closing old connection.
-1647874678: New client connected from 130.188.160.11:45602 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874678: New connection from 130.188.160.11:45604 on port 1883.
-1647874678: Client iotaul_d0805f53 already connected, closing old connection.
-1647874678: New client connected from 130.188.160.11:45604 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874678: New connection from 130.188.160.11:45606 on port 1883.
-1647874678: New connection from 130.188.160.11:45608 on port 1883.
-1647874678: Client iotaul_d0805f53 already connected, closing old connection.
-1647874678: New client connected from 130.188.160.11:45606 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874678: Client iotaul_d0805f53 already connected, closing old connection.
-1647874678: New client connected from 130.188.160.11:45608 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874679: New connection from 130.188.160.11:45610 on port 1883.
-1647874679: New connection from 130.188.160.11:45612 on port 1883.
-1647874679: Client iotaul_d0805f53 already connected, closing old connection.
-1647874679: New client connected from 130.188.160.11:45610 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874679: New connection from 130.188.160.11:45614 on port 1883.
-1647874679: New connection from 130.188.160.11:45616 on port 1883.
-1647874679: Client iotaul_d0805f53 already connected, closing old connection.
-1647874679: New client connected from 130.188.160.11:45612 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874679: Client iotaul_d0805f53 already connected, closing old connection.
-1647874679: New client connected from 130.188.160.11:45614 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874679: Client iotaul_d0805f53 already connected, closing old connection.
-1647874679: New client connected from 130.188.160.11:45616 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874679: New connection from 130.188.160.11:45618 on port 1883.
-1647874679: Client iotaul_d0805f53 already connected, closing old connection.
-1647874679: New client connected from 130.188.160.11:45618 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874679: New connection from 130.188.160.11:45620 on port 1883.
-1647874679: Client iotaul_d0805f53 already connected, closing old connection.
-1647874679: New client connected from 130.188.160.11:45620 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874680: New connection from 130.188.160.11:45622 on port 1883.
-1647874680: Client iotaul_d0805f53 already connected, closing old connection.
-1647874680: New client connected from 130.188.160.11:45622 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874680: New connection from 130.188.160.11:45624 on port 1883.
-1647874680: New connection from 130.188.160.11:45626 on port 1883.
-1647874680: New connection from 130.188.160.11:45628 on port 1883.
-1647874680: Client iotaul_d0805f53 already connected, closing old connection.
-1647874680: New client connected from 130.188.160.11:45624 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874680: New connection from 130.188.160.11:45630 on port 1883.
-1647874680: Client iotaul_d0805f53 already connected, closing old connection.
-1647874680: New client connected from 130.188.160.11:45626 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874680: Client iotaul_d0805f53 already connected, closing old connection.
-1647874680: New client connected from 130.188.160.11:45628 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874680: Client iotaul_d0805f53 already connected, closing old connection.
-1647874680: New client connected from 130.188.160.11:45630 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874680: New connection from 130.188.160.11:45632 on port 1883.
-1647874680: Client iotaul_d0805f53 already connected, closing old connection.
-1647874680: New client connected from 130.188.160.11:45632 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874681: New connection from 130.188.160.11:45634 on port 1883.
-1647874681: Client iotaul_d0805f53 already connected, closing old connection.
-1647874681: New client connected from 130.188.160.11:45634 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874681: New connection from 130.188.160.11:45636 on port 1883.
-1647874681: Client iotaul_d0805f53 already connected, closing old connection.
-1647874681: New client connected from 130.188.160.11:45636 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874681: New connection from 130.188.160.11:45638 on port 1883.
-1647874681: New connection from 130.188.160.11:45640 on port 1883.
-1647874681: New connection from 130.188.160.11:45642 on port 1883.
-1647874681: Client iotaul_d0805f53 already connected, closing old connection.
-1647874681: New client connected from 130.188.160.11:45638 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874681: Client iotaul_d0805f53 already connected, closing old connection.
-1647874681: New client connected from 130.188.160.11:45640 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874681: New connection from 130.188.160.11:45644 on port 1883.
-1647874681: Client iotaul_d0805f53 already connected, closing old connection.
-1647874681: New client connected from 130.188.160.11:45642 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874681: Client iotaul_d0805f53 already connected, closing old connection.
-1647874681: New client connected from 130.188.160.11:45644 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874682: New connection from 130.188.160.11:45646 on port 1883.
-1647874682: Client iotaul_d0805f53 already connected, closing old connection.
-1647874682: New client connected from 130.188.160.11:45646 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874682: New connection from 130.188.160.11:45648 on port 1883.
-1647874682: Client iotaul_d0805f53 already connected, closing old connection.
-1647874682: New client connected from 130.188.160.11:45648 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874682: New connection from 130.188.160.11:45650 on port 1883.
-1647874682: Client iotaul_d0805f53 already connected, closing old connection.
-1647874682: New client connected from 130.188.160.11:45650 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874682: New connection from 130.188.160.11:45652 on port 1883.
-1647874682: Client iotaul_d0805f53 already connected, closing old connection.
-1647874682: New client connected from 130.188.160.11:45652 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874682: New connection from 130.188.160.11:45654 on port 1883.
-1647874682: New connection from 130.188.160.11:45656 on port 1883.
-1647874682: Client iotaul_d0805f53 already connected, closing old connection.
-1647874682: New client connected from 130.188.160.11:45654 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874682: Client iotaul_d0805f53 already connected, closing old connection.
-1647874682: New client connected from 130.188.160.11:45656 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874683: New connection from 130.188.160.11:45658 on port 1883.
-1647874683: Client iotaul_d0805f53 already connected, closing old connection.
-1647874683: New client connected from 130.188.160.11:45658 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874683: New connection from 130.188.160.11:45660 on port 1883.
-1647874683: Client iotaul_d0805f53 already connected, closing old connection.
-1647874683: New client connected from 130.188.160.11:45660 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874683: New connection from 130.188.160.11:45662 on port 1883.
-1647874683: New connection from 130.188.160.11:45664 on port 1883.
-1647874683: Client iotaul_d0805f53 already connected, closing old connection.
-1647874683: New client connected from 130.188.160.11:45662 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874683: Client iotaul_d0805f53 already connected, closing old connection.
-1647874683: New client connected from 130.188.160.11:45664 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874683: New connection from 130.188.160.11:45666 on port 1883.
-1647874683: New connection from 130.188.160.11:45668 on port 1883.
-1647874683: Client iotaul_d0805f53 already connected, closing old connection.
-1647874683: New client connected from 130.188.160.11:45666 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874683: Client iotaul_d0805f53 already connected, closing old connection.
-1647874683: New client connected from 130.188.160.11:45668 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874684: New connection from 130.188.160.11:45670 on port 1883.
-1647874684: Client iotaul_d0805f53 already connected, closing old connection.
-1647874684: New client connected from 130.188.160.11:45670 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874684: New connection from 130.188.160.11:45672 on port 1883.
-1647874684: Client iotaul_d0805f53 already connected, closing old connection.
-1647874684: New client connected from 130.188.160.11:45672 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874684: New connection from 130.188.160.11:45674 on port 1883.
-1647874684: New connection from 130.188.160.11:45676 on port 1883.
-1647874684: Client iotaul_d0805f53 already connected, closing old connection.
-1647874684: New client connected from 130.188.160.11:45674 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874684: Client iotaul_d0805f53 already connected, closing old connection.
-1647874684: New client connected from 130.188.160.11:45676 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874684: New connection from 130.188.160.11:45678 on port 1883.
-1647874684: New connection from 130.188.160.11:45680 on port 1883.
-1647874684: Client iotaul_d0805f53 already connected, closing old connection.
-1647874684: New client connected from 130.188.160.11:45678 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874684: Client iotaul_d0805f53 already connected, closing old connection.
-1647874684: New client connected from 130.188.160.11:45680 as iotaul_d0805f53 (p2, c1, k60, u'px4').
-1647874684: Client iotaul_d0805f53 closed its connection.
-1647874692: New connection from 130.188.160.11:45682 on port 1883.
-1647874692: New client connected from 130.188.160.11:45682 as iotaul_57c1ac5d (p2, c1, k60, u'px4').
-1647874759: New connection from 130.188.160.13:37273 on port 1883.
-1647874759: New client connected from 130.188.160.13:37273 as tester-pub (p2, c1, k60, u'px4').
-TS2.1,1647874653.240551
-TS2.1,1647874656.316116
-TS2.1,1647874658.356188
-TS2.1,1647874659.363216
-TS2.1,1647874660.338740
-TS2.1,1647874661.347638
-TS2.1,1647874661.355206
-TS2.1,1647874662.365094
-TS2.1,1647874662.370015
-TS2.1,1647874663.384098
-TS2.1,1647874664.391263
-TS2.1,1647874665.409807
-TS2.1,1647874666.422403
-TS2.1,1647874667.405454
-TS2.1,1647874668.417512
-TS2.1,1647874668.424265
-TS2.1,1647874669.433766
-TS2.1,1647874670.454571
-TS2.1,1647874671.462673
-TS2.1,1647874672.480845
-TS2.1,1647874673.489380
-TS2.1,1647874675.494644
-TS2.1,1647874676.504317
-TS2.1,1647874677.523826
-TS2.1,1647874678.539452
-TS2.1,1647874679.556304
-TS2.1,1647874679.559764
-TS2.1,1647874680.567881
-TS2.1,1647874681.563905
-TS2.1,1647874682.572864
-TS2.1,1647874682.578144
-TS2.1,1647874683.585142
-TS2.1,1647874684.603325
-TS2.1,1647874692.823913
-/54321/drone001/attrs,TS2,1647874759.77408
-/54321/drone001/attrs,TS2,1647874759.78609
-/54321/drone001/attrs,TS2,1647874759.81066
-/54321/drone001/attrs,TS2,1647874759.83514
-/54321/drone001/attrs,TS2,1647874759.85908
-/54321/drone001/attrs,TS2,1647874759.87715
-/54321/drone001/attrs,TS2,1647874759.89880
-/54321/drone001/attrs,TS2,1647874759.92488
-/54321/drone001/attrs,TS2,1647874759.94568
-/54321/drone001/attrs,TS2,1647874759.96872
-/54321/drone001/attrs,TS2,1647874759.99398
+/54321/drone001/attrs,TS2,1647874759.077408
+/54321/drone001/attrs,TS2,1647874759.078609
+/54321/drone001/attrs,TS2,1647874759.081066
+/54321/drone001/attrs,TS2,1647874759.083514
+/54321/drone001/attrs,TS2,1647874759.085908
+/54321/drone001/attrs,TS2,1647874759.087715
+/54321/drone001/attrs,TS2,1647874759.089880
+/54321/drone001/attrs,TS2,1647874759.092488
+/54321/drone001/attrs,TS2,1647874759.094568
+/54321/drone001/attrs,TS2,1647874759.096872
+/54321/drone001/attrs,TS2,1647874759.099398
 /54321/drone001/attrs,TS2,1647874759.101932
 /54321/drone001/attrs,TS2,1647874759.104323
 /54321/drone001/attrs,TS2,1647874759.106903
@@ -1014,48 +391,48 @@ TS2.1,1647874692.823913
 /54321/drone001/attrs,TS2,1647874759.993860
 /54321/drone001/attrs,TS2,1647874759.996237
 /54321/drone001/attrs,TS2,1647874759.998774
-/54321/drone001/attrs,TS2,1647874760.1067
-/54321/drone001/attrs,TS2,1647874760.3299
-/54321/drone001/attrs,TS2,1647874760.5642
-/54321/drone001/attrs,TS2,1647874760.7988
-/54321/drone001/attrs,TS2,1647874760.10358
-/54321/drone001/attrs,TS2,1647874760.12681
-/54321/drone001/attrs,TS2,1647874760.15023
-/54321/drone001/attrs,TS2,1647874760.17407
-/54321/drone001/attrs,TS2,1647874760.19686
-/54321/drone001/attrs,TS2,1647874760.22079
-/54321/drone001/attrs,TS2,1647874760.24583
-/54321/drone001/attrs,TS2,1647874760.26795
-/54321/drone001/attrs,TS2,1647874760.29144
-/54321/drone001/attrs,TS2,1647874760.31666
-/54321/drone001/attrs,TS2,1647874760.33801
-/54321/drone001/attrs,TS2,1647874760.36151
-/54321/drone001/attrs,TS2,1647874760.39194
-/54321/drone001/attrs,TS2,1647874760.41573
-/54321/drone001/attrs,TS2,1647874760.43904
-/54321/drone001/attrs,TS2,1647874760.46288
-/54321/drone001/attrs,TS2,1647874760.48684
-/54321/drone001/attrs,TS2,1647874760.50993
-/54321/drone001/attrs,TS2,1647874760.53327
-/54321/drone001/attrs,TS2,1647874760.55703
-/54321/drone001/attrs,TS2,1647874760.57997
-/54321/drone001/attrs,TS2,1647874760.60420
-/54321/drone001/attrs,TS2,1647874760.63012
-/54321/drone001/attrs,TS2,1647874760.65191
-/54321/drone001/attrs,TS2,1647874760.67590
-/54321/drone001/attrs,TS2,1647874760.69860
-/54321/drone001/attrs,TS2,1647874760.72267
-/54321/drone001/attrs,TS2,1647874760.74671
-/54321/drone001/attrs,TS2,1647874760.77258
-/54321/drone001/attrs,TS2,1647874760.79481
-/54321/drone001/attrs,TS2,1647874760.81770
-/54321/drone001/attrs,TS2,1647874760.84233
-/54321/drone001/attrs,TS2,1647874760.86555
-/54321/drone001/attrs,TS2,1647874760.88633
-/54321/drone001/attrs,TS2,1647874760.91075
-/54321/drone001/attrs,TS2,1647874760.93420
-/54321/drone001/attrs,TS2,1647874760.95774
-/54321/drone001/attrs,TS2,1647874760.98174
+/54321/drone001/attrs,TS2,1647874760.001067
+/54321/drone001/attrs,TS2,1647874760.003299
+/54321/drone001/attrs,TS2,1647874760.005642
+/54321/drone001/attrs,TS2,1647874760.007988
+/54321/drone001/attrs,TS2,1647874760.010358
+/54321/drone001/attrs,TS2,1647874760.012681
+/54321/drone001/attrs,TS2,1647874760.015023
+/54321/drone001/attrs,TS2,1647874760.017407
+/54321/drone001/attrs,TS2,1647874760.019686
+/54321/drone001/attrs,TS2,1647874760.022079
+/54321/drone001/attrs,TS2,1647874760.024583
+/54321/drone001/attrs,TS2,1647874760.026795
+/54321/drone001/attrs,TS2,1647874760.029144
+/54321/drone001/attrs,TS2,1647874760.031666
+/54321/drone001/attrs,TS2,1647874760.033801
+/54321/drone001/attrs,TS2,1647874760.036151
+/54321/drone001/attrs,TS2,1647874760.039194
+/54321/drone001/attrs,TS2,1647874760.041573
+/54321/drone001/attrs,TS2,1647874760.043904
+/54321/drone001/attrs,TS2,1647874760.046288
+/54321/drone001/attrs,TS2,1647874760.048684
+/54321/drone001/attrs,TS2,1647874760.050993
+/54321/drone001/attrs,TS2,1647874760.053327
+/54321/drone001/attrs,TS2,1647874760.055703
+/54321/drone001/attrs,TS2,1647874760.057997
+/54321/drone001/attrs,TS2,1647874760.060420
+/54321/drone001/attrs,TS2,1647874760.063012
+/54321/drone001/attrs,TS2,1647874760.065191
+/54321/drone001/attrs,TS2,1647874760.067590
+/54321/drone001/attrs,TS2,1647874760.069860
+/54321/drone001/attrs,TS2,1647874760.072267
+/54321/drone001/attrs,TS2,1647874760.074671
+/54321/drone001/attrs,TS2,1647874760.077258
+/54321/drone001/attrs,TS2,1647874760.079481
+/54321/drone001/attrs,TS2,1647874760.081770
+/54321/drone001/attrs,TS2,1647874760.084233
+/54321/drone001/attrs,TS2,1647874760.086555
+/54321/drone001/attrs,TS2,1647874760.088633
+/54321/drone001/attrs,TS2,1647874760.091075
+/54321/drone001/attrs,TS2,1647874760.093420
+/54321/drone001/attrs,TS2,1647874760.095774
+/54321/drone001/attrs,TS2,1647874760.098174
 /54321/drone001/attrs,TS2,1647874760.100531
 /54321/drone001/attrs,TS2,1647874760.102901
 /54321/drone001/attrs,TS2,1647874760.105221
@@ -1434,49 +811,49 @@ TS2.1,1647874692.823913
 /54321/drone001/attrs,TS2,1647874760.994331
 /54321/drone001/attrs,TS2,1647874760.996670
 /54321/drone001/attrs,TS2,1647874760.999015
-/54321/drone001/attrs,TS2,1647874761.1339
-/54321/drone001/attrs,TS2,1647874761.3638
-/54321/drone001/attrs,TS2,1647874761.5896
-/54321/drone001/attrs,TS2,1647874761.8125
-/54321/drone001/attrs,TS2,1647874761.10551
-/54321/drone001/attrs,TS2,1647874761.12939
-/54321/drone001/attrs,TS2,1647874761.15703
-/54321/drone001/attrs,TS2,1647874761.18057
-/54321/drone001/attrs,TS2,1647874761.20279
-/54321/drone001/attrs,TS2,1647874761.22769
-/54321/drone001/attrs,TS2,1647874761.24846
-/54321/drone001/attrs,TS2,1647874761.27361
-/54321/drone001/attrs,TS2,1647874761.29695
-/54321/drone001/attrs,TS2,1647874761.31948
-/54321/drone001/attrs,TS2,1647874761.34180
-/54321/drone001/attrs,TS2,1647874761.36633
-/54321/drone001/attrs,TS2,1647874761.38980
-/54321/drone001/attrs,TS2,1647874761.41261
-/54321/drone001/attrs,TS2,1647874761.43534
-/54321/drone001/attrs,TS2,1647874761.45918
-/54321/drone001/attrs,TS2,1647874761.48248
-/54321/drone001/attrs,TS2,1647874761.50615
-/54321/drone001/attrs,TS2,1647874761.53013
-/54321/drone001/attrs,TS2,1647874761.55352
-/54321/drone001/attrs,TS2,1647874761.57682
-/54321/drone001/attrs,TS2,1647874761.60039
-/54321/drone001/attrs,TS2,1647874761.62299
-/54321/drone001/attrs,TS2,1647874761.64573
-/54321/drone001/attrs,TS2,1647874761.66929
-/54321/drone001/attrs,TS2,1647874761.69188
-/54321/drone001/attrs,TS2,1647874761.71435
-/54321/drone001/attrs,TS2,1647874761.73841
-/54321/drone001/attrs,TS2,1647874761.76135
-/54321/drone001/attrs,TS2,1647874761.78486
-/54321/drone001/attrs,TS2,1647874761.80708
-/54321/drone001/attrs,TS2,1647874761.82998
-/54321/drone001/attrs,TS2,1647874761.85360
-/54321/drone001/attrs,TS2,1647874761.87679
-/54321/drone001/attrs,TS2,1647874761.90046
-/54321/drone001/attrs,TS2,1647874761.92365
-/54321/drone001/attrs,TS2,1647874761.94696
-/54321/drone001/attrs,TS2,1647874761.97132
-/54321/drone001/attrs,TS2,1647874761.99442
+/54321/drone001/attrs,TS2,1647874761.001339
+/54321/drone001/attrs,TS2,1647874761.003638
+/54321/drone001/attrs,TS2,1647874761.005896
+/54321/drone001/attrs,TS2,1647874761.008125
+/54321/drone001/attrs,TS2,1647874761.010551
+/54321/drone001/attrs,TS2,1647874761.012939
+/54321/drone001/attrs,TS2,1647874761.015703
+/54321/drone001/attrs,TS2,1647874761.018057
+/54321/drone001/attrs,TS2,1647874761.020279
+/54321/drone001/attrs,TS2,1647874761.022769
+/54321/drone001/attrs,TS2,1647874761.024846
+/54321/drone001/attrs,TS2,1647874761.027361
+/54321/drone001/attrs,TS2,1647874761.029695
+/54321/drone001/attrs,TS2,1647874761.031948
+/54321/drone001/attrs,TS2,1647874761.034180
+/54321/drone001/attrs,TS2,1647874761.036633
+/54321/drone001/attrs,TS2,1647874761.038980
+/54321/drone001/attrs,TS2,1647874761.041261
+/54321/drone001/attrs,TS2,1647874761.043534
+/54321/drone001/attrs,TS2,1647874761.045918
+/54321/drone001/attrs,TS2,1647874761.048248
+/54321/drone001/attrs,TS2,1647874761.050615
+/54321/drone001/attrs,TS2,1647874761.053013
+/54321/drone001/attrs,TS2,1647874761.055352
+/54321/drone001/attrs,TS2,1647874761.057682
+/54321/drone001/attrs,TS2,1647874761.060039
+/54321/drone001/attrs,TS2,1647874761.062299
+/54321/drone001/attrs,TS2,1647874761.064573
+/54321/drone001/attrs,TS2,1647874761.066929
+/54321/drone001/attrs,TS2,1647874761.069188
+/54321/drone001/attrs,TS2,1647874761.071435
+/54321/drone001/attrs,TS2,1647874761.073841
+/54321/drone001/attrs,TS2,1647874761.076135
+/54321/drone001/attrs,TS2,1647874761.078486
+/54321/drone001/attrs,TS2,1647874761.080708
+/54321/drone001/attrs,TS2,1647874761.082998
+/54321/drone001/attrs,TS2,1647874761.085360
+/54321/drone001/attrs,TS2,1647874761.087679
+/54321/drone001/attrs,TS2,1647874761.090046
+/54321/drone001/attrs,TS2,1647874761.092365
+/54321/drone001/attrs,TS2,1647874761.094696
+/54321/drone001/attrs,TS2,1647874761.097132
+/54321/drone001/attrs,TS2,1647874761.099442
 /54321/drone001/attrs,TS2,1647874761.101853
 /54321/drone001/attrs,TS2,1647874761.104100
 /54321/drone001/attrs,TS2,1647874761.106444
@@ -1535,9 +912,7 @@ TS2.1,1647874692.823913
 /54321/drone001/attrs,TS2,1647874761.237920
 /54321/drone001/attrs,TS2,1647874761.240258
 /54321/drone001/attrs,TS2,1647874761.242621
-/54321/drone001/attrs,TS2,1647871647874761: Client tester-pub closed its connection.
-1647874771: mosquitto version 2.0.14 terminating
-4761.244949
+/54321/drone001/attrs,TS2,1647874761.244949
 /54321/drone001/attrs,TS2,1647874761.247274
 /54321/drone001/attrs,TS2,1647874761.249650
 /54321/drone001/attrs,TS2,1647874761.251938
